@@ -16,5 +16,11 @@ It's important for a website like RealPrivacy.io to be up-to-date and easy to us
 # Support RealPrivacy.io
 
 - [Donate.](https://liberapay.com/danarel/)
-- [Make suggestions on Twitter.](https://www.twitter.com/ReaLPrivacyIO)
+- [Make suggestions on Twitter.](https://www.twitter.com/RealPrivacyIO)
 - View and edit our website source code here on GitHub.
+
+# Information and License
+
+Copyright 2018-2019 Dan Arel, and licensed under AGPLv3. 
+
+Parts of this site are proudly sourced from [PrivacyTools.io](https://www.privacytools.io). The aim of RealPrivacy is not to replace sites that have come before, but offer just another portal into introducing internet users to the world of privacy and encryption.
