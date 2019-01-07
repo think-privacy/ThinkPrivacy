@@ -1761,6 +1761,7 @@
 		font-size: 0.4em;
 		font-weight: normal;
 		letter-spacing: 0.20em;
+		text-align: right;
 	}
 
 	@media screen and (max-width: 980px) {

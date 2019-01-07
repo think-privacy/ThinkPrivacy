@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taking your data back from Google
-blogimage: /images/google.jpg
+topimage: /images/google.jpg
 author: dan
 date: December 30, 2018
 ---
