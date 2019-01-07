@@ -6,6 +6,17 @@ title: Support RealPrivacy
 You can use the following addresses to support [RealPrivacy.io](https://realprivacy.io) with cryptocurrencies or other donation services.
 
 -----------
+**LiberaPay:** [LiberaPay.com/danarel](https://liberapay.com/danarel/){:target="_blank"}
+
+-----------
+
+**Patreon:** [Patreon.com/danarel](https://www.patreon.com/danarel/){:target="_blank"}
+
+-----------
+
+**PayPal:** [PayPal.me/danarel](https://www.paypal.me/danarel){:target="_blank"}
+
+-----------
 
 **Bitcoin**
 ```
