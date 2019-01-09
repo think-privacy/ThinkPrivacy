@@ -1,3 +1,9 @@
+title: RealPrivacy
+description: Take back your privacy and protect your data from surveillance capitalists.
+url: "https://realprivacy.io"
+markdown: kramdown
 collections:
   authors:
   output: true
+sitemap:
+file: "/sitemap.xml"

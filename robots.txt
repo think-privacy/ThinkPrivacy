@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://realprivacy.io/sitemap.xml
