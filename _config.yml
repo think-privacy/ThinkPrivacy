@@ -5,5 +5,8 @@ markdown: kramdown
 collections:
   authors:
   output: true
+plugins:
+- jekyll-sitemap
+- jekyll-feed  
 sitemap:
 file: "/sitemap.xml"
