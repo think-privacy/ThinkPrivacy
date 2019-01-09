@@ -8,12 +8,14 @@ It's important for a website like RealPrivacy.io to be up-to-date and easy to us
 
 ## Building
 
-1. Install [Jekyll](https://jekyllrb.com/)
-1. Use `jekyll build` to build the website. The output can be found in the `_site` directory.  Live preview is also possible by running `jekyll serve`
+1. Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+1. Install [bundler](https://bundler.io/) by running `gem install bundler`.
+1. Run `bundle install` to install the required dependencies.
+1. Use `bundle exec jekyll build` to build the website. The output can be found in the `_site` directory.  Live preview is also possible by running `bundle exec jekyll serve`
 
 # Support RealPrivacy.io
 
-- Donate via [LiberaPay](https://liberapay.com/danarel/) or [Crypto](https://gist.github.com/danarel/b12d07abe38aa9ca6d1c1b11addc60cc)
+- [Donate.](https://realprivacy.io/support.html)
 - [Make suggestions on Twitter.](https://www.twitter.com/RealPrivacyIO)
 - View and edit our website source code here on GitHub.
 
