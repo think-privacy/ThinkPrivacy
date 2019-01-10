@@ -1,0 +1,21 @@
+language: ruby
+rvm:
+  - 2.4.1
+
+before_install:
+  - gem install bundler:2.0.1
+
+before_script:
+ - chmod +x ./build.sh  
+
+# Assume bundler is being used, therefore
+# the `install` step will run `bundle install` by default.
+script: ./build.sh
+
+sudo: false # route your build to the container-based infrastructure for a faster build
+
+cache: bundler # caching bundler gem packages will speed up build
+
+# Optional: disable email notifications about the outcome of your builds
+notifications:
+  email: false
