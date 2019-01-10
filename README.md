@@ -1,6 +1,6 @@
 # [RealPrivacy](https://www.realprivacy.io/)
 
-[![Build Status](https://travis-ci.com/danarel/realprivacy.io.svg?branch=master)](https://travis-ci.com/danarel/realprivacy)
+[![Build Status](https://travis-ci.com/danarel/realprivacy.svg?branch=master)](https://travis-ci.com/danarel/realprivacy)
 
 # Contributing
 
