@@ -5,6 +5,9 @@ rvm:
 before_install:
   - gem install bundler:2.0.1
 
+before_script:
+ - chmod +x ./build.sh  
+
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
 script: ./build.sh
