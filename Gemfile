@@ -11,4 +11,5 @@ gem "jekyll", "~> 3.8"
 group :jekyll_plugins do
    gem "jekyll-sitemap"
    gem "jekyll-feed"
+   gem "html-proofer"
  end
