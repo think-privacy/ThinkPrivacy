@@ -1,25 +1,11 @@
-# After changing this file, check it on:
-#   http://lint.travis-ci.org/
-language: node_js
+language: ruby
+rvm:
+  - 2.4.1
 
-# Is `sudo` required? If not, jobs are run on container-based infrastructure.
-sudo: false
+sudo: false # route your build to the container-based infrastructure for a faster build
 
-node_js:
-  - 'node'
-  - '6'
-  - '5'
-  - '4'
-  - '3'
-  - '2'
-  - '1'
-  - '0.12'
-  - '0.10'
+cache: bundler # caching bundler gem packages will speed up build
 
-before_install:
-  # Update the npm client. Older clients cannot, e.g., handle scoped modules.
-  - npm update -g npm
-
-after_script:
-  - npm run coverage
-
+# Optional: disable email notifications about the outcome of your builds
+notifications:
+  email: false
