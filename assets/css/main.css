@@ -1,5 +1,4 @@
 @import url(font-awesome.min.css);
-@import url("../fonts/fonts.css");
 @import url("flags.css");
 
 /*
@@ -1646,7 +1645,7 @@
 
 	body, input, select, textarea {
 		color: #585858;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: Helvetica, Arial,  sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.75;
