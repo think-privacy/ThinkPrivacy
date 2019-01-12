@@ -10,7 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link href="{{ "/assets/css/main.css" | relative_url }}" rel="stylesheet">
+		<link href="/assets/css/main.css" rel="stylesheet">
 		<link rel="me" href="https://anticapitalist.party/@danarel">
 		<link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -72,7 +72,7 @@
 					<div id="main">
 						<div class="inner">
 							<h1>{{ page.title }}</h1>
-						{% if page.topimage %}<span class="image main"><img src="{{ page.topimage }}"></span>{% endif %}
+						{% if page.topimage %}<span class="image main"><img src="/images/{{ page.topimage }}"></span>{% endif %}
 					{{ content }}
 						</div>
 					</div>
@@ -88,7 +88,7 @@
 									<li><a href="https://anticapitalist.party/@danarel" target="_blank" class="style2 fab fa-mastodon"><span class="label"> Mastodon</span></a></li>
 									<li><a href="/support.html" class="style2 fas fa-donate"><span class="label"> Donate</span></a></li>
 									<li><a href="https://github.com/danarel/realprivacy" target="_blank" class="style2 fab fa-github"><span class="label"> GitHub</span></a></li>
-									<li><a href="https://gist.github.com/danarel/f2fc9d001c3b8b8eb80844dc170c48d2" target="_blank" class="style2 far fa-envelope"><span class="label"> Contact Us!</span></a></li>
+									<li><a href="/contact.html" class="style2 far fa-envelope"><span class="label"> Contact Us!</span></a></li>
 								</ul>
 							</section>
 							<ul class="copyright">
