@@ -10,7 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/assets/css/main.css" />
+		<link href="{{ "/assets/css/main.css" | relative_url }}" rel="stylesheet">
 		<link rel="me" href="https://anticapitalist.party/@danarel">
 		<link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -100,11 +100,11 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="/assets/js/jquery.min.js"></script>
-			<script src="/assets/js/skel.min.js"></script>
-			<script src="/assets/js/util.js"></script>
+			<script src="{{ "/assets/js/jquery.min.js" | relative_url }}"></script>
+			<script src="{{ "/assets/js/skel.min.js" | relative_url }}"></script>
+			<script src=" {{"/assets/js/util.js" | relative_url }}"></script>
 			<!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="/assets/js/main.js"></script>
+			<script src="{{ "/assets/js/main.js" | relative_url }}"></script>
 
 	</body>
 </html>
