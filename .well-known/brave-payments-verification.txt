@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: realprivacy.io
+Token: 3dc13f8eebb64333cdc62a4629eeca0f7497c8a9b738385f058d0a1119fdcb03

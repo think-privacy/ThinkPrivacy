@@ -10,7 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link href="/assets/css/main.css" rel="stylesheet">
+		<link href="{{ "/assets/css/main.css" | relative_url }}" rel="stylesheet">
 		<link rel="me" href="https://anticapitalist.party/@danarel">
 		<link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
@@ -32,7 +32,7 @@
 						<div class="inner">
 
 							<!-- Logo -->
-								<a href="/index.html" class="logo">
+								<a href="{{ "/index.html" | relative_url }}" class="logo">
 									<i class="fas fa-fingerprint fa-lg"></i><span class="title">RealPrivacy</span>
 								</a>
 								<!-- /logo -->
@@ -51,20 +51,20 @@
 					<nav id="menu">
 						<h2>Menu</h2>
 						<ul>
-							<li><a href="/index.html">Home</a></li>
-							<li><a href="/search.html">Search Engines</a></li>
-							<li><a href="/email.html">Email</a></li>
-							<li><a href="/messaging.html">Messaging</a></li>
-							<li><a href="/browsers.html">Browsers & Privacy Add-ons</a></li>
-							<li><a href="/vpn.html">VPN & DNS</a></li>
-							<li><a href="/storage.html">Storage</a></li>
-							<li><a href="/password.html">Passwords & 2FA</a></li>
-							<li><a href="/notes.html">Notes & Office</a></li>
-							<li><a href="/os.html">Operating Systems</a></li>
+							<li><a href="{{ "/index.html" | relative_url }}">Home</a></li>
+							<li><a href="{{ "/search.html" | relative_url }}">Search Engines</a></li>
+							<li><a href="{{ "/email.html" | relative_url }}">Email</a></li>
+							<li><a href="{{ "/messaging.html" | relative_url }}">Messaging</a></li>
+							<li><a href="{{ "/browsers.html" | relative_url }}">Browsers & Privacy Add-ons</a></li>
+							<li><a href="{{ "/vpn.html" | relative_url }}">VPN & DNS</a></li>
+							<li><a href="{{ "/storage.html"  | relative_url }}">Storage</a></li>
+							<li><a href="{{ "/password.html" | relative_url }}">Passwords & 2FA</a></li>
+							<li><a href="{{ "/notes.html" | relative_url }}">Notes & Office</a></li>
+							<li><a href="{{ "/os.html" | relative_url }}">Operating Systems</a></li>
 							<li><a href="#">Blogging (Coming Soon)</a></li>
 							<li><a href="#">Social Media (Coming Soon)</a></li>
-							<li><a href="/blog.html">Our Blog</a></li>
-							<li><a href="/about.html">About Us</a></li>
+							<li><a href="{{ "/blog.html" | relative_url }}">Our Blog</a></li>
+							<li><a href="{{ "/about.html" | relative_url }}">About Us</a></li>
 						</ul>
 					</nav>
 
@@ -88,11 +88,11 @@
 									<li><a href="https://anticapitalist.party/@danarel" target="_blank" class="style2 fab fa-mastodon"><span class="label"> Mastodon</span></a></li>
 									<li><a href="/support.html" class="style2 fas fa-donate"><span class="label"> Donate</span></a></li>
 									<li><a href="https://github.com/danarel/realprivacy" target="_blank" class="style2 fab fa-github"><span class="label"> GitHub</span></a></li>
-									<li><a href="/contact.html" class="style2 far fa-envelope"><span class="label"> Contact Us!</span></a></li>
+									<li><a href="{{ "/contact.html" | relative_url }}" class="style2 far fa-envelope"><span class="label"> Contact Us!</span></a></li>
 								</ul>
 							</section>
 							<ul class="copyright">
-								<li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li><a href="/privacy.html">Privacy Policy</a></li><li><a href="/about.html">About Us</a></li>
+								<li>Design: <a href="http://html5up.net">HTML5 UP</a></li><li><a href="{{ "/privacy.html" | relative_url }}">Privacy Policy</a></li><li><a href="{{ "/about.html" | relative_url }}">About Us</a></li>
 							</ul>
 						</div>
 					</footer>
