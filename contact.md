@@ -35,7 +35,7 @@ ricochet:vcjdsod3bee62jyz
 
 **[XMPP](https://xmpp.org/)**: 
 ```
-danarel@mailbox.org
+dan@danarel.com
 ```
 -----------
 
