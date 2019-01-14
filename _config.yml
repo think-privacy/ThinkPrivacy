@@ -10,4 +10,4 @@ plugins:
 - jekyll-feed  
 sitemap:
 file: "/sitemap.xml"
-exclude: [vendor]
+exclude: [vendor, LICENSE, build.sh, README.md, Gemfile, Gemfile.lock]
