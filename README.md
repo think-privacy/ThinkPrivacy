@@ -6,7 +6,7 @@
 
 It's important for a website like RealPrivacy.io to be up-to-date and easy to use for new users. Keep an eye on software updates of the applications listed here. Follow recent news about providers that are recommended. We try our best to keep up but we're not perfect and the internet is changing fast. So if you find an error, or you think a provider should not be listed here, or a qualified service provider is missing or a browser plugin is not the best choice anymore or anything else.
 
-**Please see our [contributing guidelines](.git/CONTRIBUTING.md) to learn more.**
+**Please see our [contributing guidelines](.github/CONTRIBUTING.md) to learn more.**
 
 **Chat with us.** Find us on [Twitter](https://www.twitter.com/RealPrivacyIO) or visit the [contact page](https://gist.github.com/danarel/f2fc9d001c3b8b8eb80844dc170c48d2) and contact the administrator, Dan Arel. This is becoming a community project and we're aiming to deliver the best information available for a better privacy.
 
