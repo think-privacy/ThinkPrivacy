@@ -24,4 +24,4 @@ We want to give people the best options, not every option. We need to ensure tha
 There can be exceptions if no software is available that meet the criteria.
 
 
-[Code of Conduct]: .github/CODE_OF_CONDUCT.md
+[Code of Conduct]: CODE_OF_CONDUCT.md
