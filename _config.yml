@@ -11,4 +11,4 @@ plugins:
 sitemap:
 file: "/sitemap.xml"
 exclude: [vendor, LICENSE, build.sh, README.md, Gemfile, Gemfile.lock]
-include: [.well-known]
+include: [.well-known, keybase.txt]

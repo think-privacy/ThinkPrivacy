@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dan_arel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://realprivacy.io
+  * I am dan_arel (https://keybase.io/dan_arel) on keybase.
+  * I have a public key ASDeWz5z5ebq5Dj_ibXv_obxvuzcSOy5FT9o_3MkkGlnOAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012019d5e36c760cc30c8cd62ff743799ea3b19c4116d24356d8f4fed06677db922e0a",
+      "host": "keybase.io",
+      "kid": "0120de5b3e73e5e6eae438ff89b5effe86f1beecdc48ecb9153f68ff7324906967380a",
+      "uid": "a869075a3032d26e101e0422d7744419",
+      "username": "dan_arel"
+    },
+    "merkle_root": {
+      "ctime": 1547750127,
+      "hash": "3cc1809fb15b1b5c8d876a042cc5ae8194a8b1bc79b3500ed5f04b50cabd788ca977997f285f7a51495611ea1356897347b8fd07549c3c5d10a37ccee3551ef5",
+      "hash_meta": "26a731647bd9f006138624d3142b1bf58bf4f44c1fceb17d6b319d6f87dcdbad",
+      "seqno": 4450442
+    },
+    "service": {
+      "entropy": "3UqplagDbfC7JdIpG/4YFLw3",
+      "hostname": "realprivacy.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.2"
+  },
+  "ctime": 1547750234,
+  "expire_in": 504576000,
+  "prev": "4818c72615a028df200714c2436854d4b8ed455b2a93556cb8ba85effd8cc8af",
+  "seqno": 74,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3ls+c+Xm6uQ4/4m17/6G8b7s3EjsuRU/aP9zJJBpZzgKp3BheWxvYWTESpcCSsQgSBjHJhWgKN8gBxTCQ2hU1LjtRVsqk1VsuLqF7/2MyK/EIFbYvrDqkuAoANI/tXqw2kYksa54dQMli9z4Zx6qMaHIAgHCo3NpZ8RAcKW31G7ZYCFyFRN2+r/EkZi7nh+pQlBlCpcbtx6lxf1u/SRlmq9avlC5tBRZvn1ffRenKyHCX4o6vyxiZviAAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGQkJUcozA0sEFbQdO+e0JuWSXN6WnC8vm7cja/yqDT6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dan_arel
+
+==================================================================
