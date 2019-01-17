@@ -3280,6 +3280,16 @@
 						margin-left: 0;
 					}
 
+					#footer > .inner .github {
+						float: right;
+						text-decoration: none;
+					}
+
+					#footer > .inner img {
+						max-width: 55px;
+						border: none;
+					}
+
 		@media screen and (max-width: 1280px) {
 
 			#footer {
