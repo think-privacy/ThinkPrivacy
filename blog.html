@@ -4,7 +4,8 @@ title: Blog
 ---
 
 {% for post in site.posts %}
-<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a><br><span class="bloginfo">{% assign author = site.authors | where: 'short_name', page.author | first %}
+<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  <br><span class="bloginfo">{% assign author = site.authors | where: 'short_name', page.author | first %}
   {% if author %}
     {{ author.name }}
   {% endif %} | {{ post.date | date: '%B %d, %Y' }}</span></h2>
@@ -12,5 +13,3 @@ title: Blog
 <p><a href="{{ post.url | relative_url }}"><strong>Read More > ></strong></a></p>
 <hr />
  {% endfor %}
-
-        
