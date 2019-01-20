@@ -15,8 +15,8 @@ ba 63 94 91 97 29 99 e0 cf 7d 10 a1 28 29 0f 1c
 
 key fingerprint (Desktop): 
 ```
-45 74 8e 29 27 b1 09 12 80 b9 87 c2 2f 73 b2 89 
-8d 29 00 1d 07 28 d1 97 8f f3 47 fe b6 9f 7c 09
+60 92 7b 8b ad 83 77 c5 7a ae f8 1e d7 54 6d c3 
+a5 71 06 d4 12 fd c8 80 3d fe cb 3f 6c 8c d6 55
 ```
 
 * (Note: When using Wire, metadata -- the fact that we communicated -- is [not encrypted](https://motherboard.vice.com/en_us/article/gvzw5x/secure-messaging-app-wire-stores-everyone-youve-ever-contacted-in-plain-text). Here are [instructions on how to stay more anonymous when using Wire](https://medium.com/@wireapp/staying-anonymous-on-wire-22faa13aba4d).)
@@ -29,7 +29,7 @@ key fingerprint (Desktop):
 
 **[Ricochet](https://ricochet.im/)**:
 
-ricochet:vcjdsod3bee62jyz
+ricochet:shbmssnfqizymaec
 
 -----------
 
