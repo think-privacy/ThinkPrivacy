@@ -8,7 +8,7 @@ It's important for a website like ThinkPrivacy.io to be up-to-date and easy to u
 
 **Please see our [contributing guidelines](.github/CONTRIBUTING.md) to learn more.**
 
-**Chat with us.** Find us on [Twitter](https://www.twitter.com/RealPrivacyIO) or visit the [contact page](https://thinkprivacy.io/contact.html) and contact the administrator, Dan Arel. This is becoming a community project and we're aiming to deliver the best information available for a better privacy.
+**Chat with us.** Find us on [Twitter](https://www.twitter.com/ThinkPrivacyIO) or visit the [contact page](https://thinkprivacy.io/contact.html) and contact the administrator, Dan Arel. This is becoming a community project and we're aiming to deliver the best information available for a better privacy.
 
 ## Building
 
@@ -20,7 +20,7 @@ It's important for a website like ThinkPrivacy.io to be up-to-date and easy to u
 # Support ThinkPrivacy.io
 
 - [Donate.](https://thinkprivacy.io/support.html)
-- [Make suggestions on Twitter.](https://www.twitter.com/RealPrivacyIO)
+- [Make suggestions on Twitter.](https://www.twitter.com/ThinkPrivacyIO)
 - View and edit our website source code here on GitHub.
 
 # Information and License
