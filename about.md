@@ -3,7 +3,7 @@ layout: default
 title: About Us
 ---
 
-RealPrivacy is maintained by journalist, activist, and author [Dan Arel](https://www.danarel.com){:target="_blank"} along with contributors via GitHub. This site serves no ads, no cookies, and no traffic tracking software. We have no idea who you are, and we want to keep it that way.
+ThinkPrivacy is maintained by journalist, activist, and author [Dan Arel](https://www.danarel.com){:target="_blank"} along with contributors via GitHub. This site serves no ads, no cookies, and no traffic tracking software. We have no idea who you are, and we want to keep it that way.
 
 I am not a security or privacy expert, but it has become a passion of mine. This site is designed to help everyday internet users, such as myself, find apps that help make privacy easier. There are lots of amazing apps out there that advanced users swear by but are not user friendly, and for the most part those are skipped here. I test and recommend the ones that I know I can say "download this, it will work" and not something that's going to take a user 3 weeks to learn.
 

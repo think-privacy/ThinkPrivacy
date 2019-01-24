@@ -5,7 +5,7 @@ topimage: google.jpg
 author: dan
 date: December 30, 2018
 ---
-When I decided to launch RealPrivacy it was because I got tired of noticing that I would email a friend about a product, or do a quick Google search for something and then the next time I logged onto Facebook, I would be served an ad for that same thing. I started looking around the web and wateched a TED Talk by Glenn Greenwald, and something he said really stuck with me.
+When I decided to launch ThinkPrivacy it was because I got tired of noticing that I would email a friend about a product, or do a quick Google search for something and then the next time I logged onto Facebook, I would be served an ad for that same thing. I started looking around the web and wateched a TED Talk by Glenn Greenwald, and something he said really stuck with me.
 
 >Over the last 16 months, as I’ve debated this issue around the world, every single time somebody has said to me, “I don’t really worry about invasions of privacy because I don’t have anything to hide.” I always say the same thing to them. I get out a pen, I write down my email address. I say, “Here’s my email address. What I want you to do when you get home is email me the passwords to all of your email accounts, not just the nice, respectable work one in your name, but all of them, because I want to be able to just troll through what it is you’re doing online, read what I want to read and publish whatever I find interesting. After all, if you’re not a bad person, if you’re doing nothing wrong, you should have nothing to hide.” Not a single person has taken me up on that offer.
 
@@ -13,7 +13,7 @@ I found myself tired of knowing Google is letting developers look through the co
 
 So I set out to become more private and that meant leaving Google and other “free” products and using encrypted, more secure alternatives.
 
-So what I have I found? Well, I have spent the last year testing products and making decisions on what I would do, which in the end, I turned into [RealPrivacy.io](https://realprivacy.io)
+So what I have I found? Well, I have spent the last year testing products and making decisions on what I would do, which in the end, I turned into [ThinkPrivacy.io](https://thinkprivacy.io)
 
 **Browser:**
 
