@@ -27,18 +27,6 @@ a5 71 06 d4 12 fd c8 80 3d fe cb 3f 6c 8c d6 55
 
 -----------
 
-**[Ricochet](https://ricochet.im/)**:
-
-ricochet:shbmssnfqizymaec
-
------------
-
-**[XMPP](https://xmpp.org/)**: 
-```
-dan@danarel.com
-```
------------
-
 **PGP** (Not Recommended)
 
 [Public key on Keybase server](https://keybase.io/dan_arel)
