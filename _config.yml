@@ -1,6 +1,6 @@
 title: ThinkPrivacy
 description: With corporate and government sponsored surveillance programs exploiting your data for profit or motive, isn't it time you started to Think Privacy?
-url: "https://thinkprivacy.io"
+url: "https://www.thinkprivacy.io"
 markdown: kramdown
 collections:
   authors:
@@ -11,4 +11,4 @@ plugins:
 sitemap:
 file: "/sitemap.xml"
 exclude: [vendor, LICENSE, build.sh, README.md, Gemfile, Gemfile.lock]
-include: [.well-known, keybase.txt]
+include: [.well-known, keybase.txt, _redirects]
