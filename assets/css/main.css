@@ -3418,3 +3418,7 @@
 			}
 
 		}
+
+.indextitle:hover {
+	pointer-events:none;
+}		
