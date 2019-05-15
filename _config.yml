@@ -6,4 +6,4 @@ collections:
   authors:
   output: true
 exclude: [vendor, LICENSE, build.sh, README.md, Gemfile, Gemfile.lock]
-include: [.well-known, keybase.txt, _redirects]
+include: [.well-known, keybase.txt, _redirects] 
