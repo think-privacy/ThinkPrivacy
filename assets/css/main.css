@@ -1703,9 +1703,13 @@ text-rendering: optimizelegibility;
 		font-size: 2.75em;
 		font-weight: 700;
 		line-height: 1.3;
-		margin: 0 0 1em 0;
-		color: #508484;
+		margin: 1em 0 1em 0;
+		color: #fff;
+		padding-left: 10px;
 		font-family: Helvetica, Arial, sans-serif;
+		background: #508484;
+		border-top-right-radius: 20px;
+		border-top-left-radius: 20px;
 	}
 
 		h1 a {
@@ -3435,3 +3439,10 @@ text-rendering: optimizelegibility;
 /* Gradient transparent - color - transparent */ 
 
 hr { border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); }
+
+.editor {
+	    background: #508484;
+		color: #fff;
+		border-radius: 10px;
+		padding: 15px;
+}
