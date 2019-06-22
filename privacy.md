@@ -11,9 +11,11 @@ We don't use cookies, and when possible we host all scripts on our site. If we h
 
 Put simply, we do not track you and we do not know who you are.
 
+This site does utitilize affiliate links on some products. We only join affiliate programs after we decide to endorse a product if one is available. We also ensure that affiliate programs don't allow us to know who bought the products or any identifying information about them. Your choice to purchase a product is between you and the company and we do not want to have access to that information. 
+
 ***
  
-This policy was created on May 8, 2018 and was last updated on January 23, 2018. If you have any questions feel free to contact me directly here: dan@thinkprivacy.io.
+This policy was created on May 8, 2018 and was last updated on June 22, 2019. If you have any questions feel free to contact me directly here: dan@thinkprivacy.io.
 
 
 					

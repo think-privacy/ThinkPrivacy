@@ -12,9 +12,7 @@ The site sole purpose is to make it easier for you to find software and tools th
 **Some things to know**
 
 Every piece of software or solution on this site has been tested by Dan himself. This site will only recommend software and tools we can stand behind.
-While developers can offer free trials or accounts to us, that won't help them get listed. If we get a free account, but it doesn't meet the site's standards, it won't be listed.
-
-This site utilizes affiliate links when applicable. Please see our privacy policy for more information.
+While developers can offer free trials or accounts to us, that won't help them get listed. If we get a free account and it does not meet the site's standards, it won't be listed.
 
 **Licensing**
 
