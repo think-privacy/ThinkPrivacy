@@ -19,3 +19,13 @@ cache: bundler # caching bundler gem packages will speed up build
 # Optional: disable email notifications about the outcome of your builds
 notifications:
   email: false
+
+  after_success:
+  - chmod +x _scripts/deploy.sh
+  - _scripts/deploy.sh
+
+sudo: false
+addons:
+  apt:
+    packages:
+      - ncftp

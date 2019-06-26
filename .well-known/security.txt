@@ -1,0 +1,4 @@
+Contact: dan@thinkprivacy.io
+Encryption: keys coming soon
+Preferred-Languages: en
+Canonical: https://www.thinkprivacy.io/.well-known/security.txt
