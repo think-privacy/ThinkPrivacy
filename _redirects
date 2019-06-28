@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://frosty-curie-85b473.netlify.com/* https://www.thinkprivacy.io/:splat 301!
