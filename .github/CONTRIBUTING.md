@@ -7,6 +7,7 @@ Please read this before contributing.
 - Be nice and respectful.
 - English only.
 - Be constructive.
+- No Fascists.
 
 **Please read our [Code of Conduct].**
 
