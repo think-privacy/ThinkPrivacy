@@ -1684,7 +1684,7 @@ text-rendering: optimizelegibility;
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #508484 !important;
+			color: #51a4fb !important;
 		}
 
 	strong, b {
@@ -1707,7 +1707,7 @@ text-rendering: optimizelegibility;
 		color: #fff;
 		padding-left: 10px;
 		font-family: Helvetica, Arial, sans-serif;
-		background: #508484;
+		background: #51a4fb;
 		border-top-right-radius: 20px;
 		border-top-left-radius: 20px;
 	}
@@ -3443,12 +3443,19 @@ text-rendering: optimizelegibility;
 		}
 	}
 
+		@media screen and (max-width: 736px) {
+
+		.new_logo {
+			width: 100%;
+		}
+	}
+
 /* Gradient transparent - color - transparent */ 
 
 hr { border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); }
 
 .editor {
-	    background: #508484;
+	    background: #51a4fb;
 		color: #fff;
 		border-radius: 10px;
 		padding: 15px;
