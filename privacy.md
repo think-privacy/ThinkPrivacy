@@ -2,6 +2,7 @@
 layout: default
 title: Privacy Policy
 ---
+<h2>{{ page.title }}</h2>
 
 This website (thinkprivacy.io) does not use Google Analytics or any user tracking software. The less we know about you, the better. 
 

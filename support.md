@@ -2,6 +2,7 @@
 layout: default
 title: Support ThinkPrivacy
 ---
+<h2>{{ page.title }}</h2>
 
 You can use the following addresses to support [ThinkPrivacy.io](https://thinkprivacy.io) with cryptocurrencies or other donation services.
 

@@ -2,6 +2,7 @@
 layout: default
 title: About Us
 ---
+<h2>{{ page.title }}</h2>
 
 ThinkPrivacy is maintained by journalist, activist, and author [Dan Arel](https://www.danarel.com){:target="_blank"} along with contributors via GitHub. This site serves no ads, no cookies, and no traffic tracking software. We have no idea who you are, and we want to keep it that way.
 
@@ -17,3 +18,5 @@ While developers can offer free trials or accounts to us, that won't help them g
 **Licensing**
 
 This main pages of the site operate under the GNU Affero General Public License v3.0 and you can read that [here](https://github.com/danarel/realprivacy/blob/master/LICENSE){:target="_blank"}. The blog is operating under the Creative Commons CC BY-SA 4.0 license. Read more about that [here](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"} to learn how you can and cannot use the sites blog posts.
+
+The FAQ section on this site is a modified version of [Switching.Software's](https://www.switching.software) FAQ section.
