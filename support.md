@@ -11,6 +11,10 @@ You can use the following addresses to support [ThinkPrivacy.io](https://thinkpr
 
 -----------
 
+**Github** [Github.com/sponsors/danarel](https://github.com/sponsors/danarel){:target="_blank"}
+
+-----------
+
 **Patreon:** [Patreon.com/danarel](https://www.patreon.com/danarel/){:target="_blank"}
 
 -----------
@@ -33,5 +37,5 @@ You can use the following addresses to support [ThinkPrivacy.io](https://thinkpr
 
 **Stellar (XLM)**
 ```
-GAURQUUPAO6JQ6SCAJQ2YD35ZNID35JQDYFDWCFYUX7Z6NB6LT62AWLQ
+GCRLNWS5R6TL3S4UDABBZJXKKZ3YBEUFYGHJ6WC44AXM3LWSYDC2CDVR
 ```
