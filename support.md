@@ -11,7 +11,7 @@ You can use the following addresses to support [ThinkPrivacy.io](https://thinkpr
 
 -----------
 
-**Github** [Github.com/sponsors/danarel](https://github.com/sponsors/danarel){:target="_blank"}
+**Github:** [Github.com/sponsors/danarel](https://github.com/sponsors/danarel){:target="_blank"}
 
 -----------
 
