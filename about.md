@@ -15,6 +15,10 @@ The site sole purpose is to make it easier for you to find software and tools th
 Every piece of software or solution on this site has been tested by Dan himself. This site will only recommend software and tools we can stand behind.
 While developers can offer free trials or accounts to us, that won't help them get listed. If we get a free account and it does not meet the site's standards, it won't be listed.
 
+**More things to know**
+
+In October of 2019, ThinkPrivacy joined the privacytools.io team to bring privacy to even more people. The focus of this site remains the same, to bring privacy apps and services to as many people as possible and make privacy accessible to everyone, not just the tech savvy.
+
 **Licensing**
 
 This main pages of the site operate under the GNU Affero General Public License v3.0 and you can read that [here](https://github.com/danarel/realprivacy/blob/master/LICENSE){:target="_blank"}. The blog is operating under the Creative Commons CC BY-SA 4.0 license. Read more about that [here](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"} to learn how you can and cannot use the sites blog posts.
