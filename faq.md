@@ -14,7 +14,7 @@ The best way to contribute or make recommendations is to contact us through [Git
 
 **CAN I QUOTE THINKPRIVACYS’S TEXT ON MY OWN SITE? CAN I TRANSLATE SWITCHING SOCIAL INTO ANOTHER LANGUAGE?**
 
-Yes, the text on ThinkPrivacy is available under a GNU AFFERO GENERAL PUBLIC LICENSE Version 3. Please remember to link back to ThinkPrivacy if you use content from this site, and to include a link to this licence.
+Yes, the text on ThinkPrivacy is available under Creative Commons Attribution-Share Alike 4.0. Please remember to link back to ThinkPrivacy if you use content from this site.
 
  
 

@@ -17,10 +17,10 @@ We want to give people the best options, not every option. We need to ensure tha
 
 ## Software Criteria
 
-- Open Source is prefered but not required
-- Cross-platform, including Linux whenever possible
 - Easy to use
 - Privacy respecting
+- Open Source is prefered but not required
+- Cross-platform, including Linux whenever possible
 
 There can be exceptions if no software is available that meet the criteria.
 

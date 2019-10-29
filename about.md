@@ -21,6 +21,6 @@ In October of 2019, ThinkPrivacy joined the privacytools.io team to bring privac
 
 **Licensing**
 
-This main pages of the site operate under the GNU Affero General Public License v3.0 and you can read that [here](https://github.com/danarel/realprivacy/blob/master/LICENSE){:target="_blank"}. The blog is operating under the Creative Commons CC BY-SA 4.0 license. Read more about that [here](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"} to learn how you can and cannot use the sites blog posts.
+This main pages of the site operate under the Creative Commons Attribution-Share Alike 4.0.
 
 The FAQ section on this site is a modified version of [Switching.Software's](https://www.switching.software) FAQ section.

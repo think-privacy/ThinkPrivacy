@@ -25,4 +25,4 @@ It's important for a website like ThinkPrivacy.io to be up-to-date and easy to u
 
 # Information and License
 
-Copyright 2018-2019 Dan Arel, and licensed under AGPLv3. 
+Copyright 2018-2019 Dan Arel, and licensed under Creative Commons Attribution-Share Alike 4.0.
