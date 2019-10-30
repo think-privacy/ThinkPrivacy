@@ -4,7 +4,7 @@ title: About Us
 ---
 <h2>{{ page.title }}</h2>
 
-ThinkPrivacy is maintained by journalist, activist, and author [Dan Arel](https://www.danarel.com){:target="_blank"} in partnership with [privacytools.io](https://www.privacytools.io){:target="_blank"} along with contributors via GitHub. This site serves no ads, no cookies, no affiliate links, and no tracking software. We have no idea who you are, and we want to keep it that way.
+ThinkPrivacy is maintained by journalist, activist, and author [Dan Arel](https://www.danarel.com){:target="_blank"} in partnership with [privacytools.io](https://www.privacytools.io){:target="_blank"}, along with contributors via GitHub. This site serves no ads, no cookies, no affiliate links, and no tracking software. We have no idea who you are, and we want to keep it that way.
 
 This site is designed to help everyday internet users, such as myself, find apps that help make privacy easier. There are lots of amazing apps out there that advanced users swear by but are not user friendly, and for the most part those are skipped here. I test and recommend the ones that I know I can say "download this, it will work" and not something that's going to take a user 3 weeks to learn.
 
@@ -16,7 +16,7 @@ Every piece of software or solution on this site has been tested by me personall
 
 **More things to know**
 
-In October of 2019, ThinkPrivacy joined the privacytools.io team to bring privacy to even more people. The focus of this site remains the same, to bring privacy apps and services to as many people as possible and make privacy accessible to everyone, not just the tech savvy.
+In October of 2019, ThinkPrivacy [joined](https://blog.privacytools.io/thinkprivacy-joins-privacytools/) the privacytools.io team to bring privacy to even more people. The focus of this site remains the same, to bring privacy apps and services to as many people as possible and make privacy accessible to everyone, not just the tech savvy.
 
 **Licensing**
 
