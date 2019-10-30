@@ -1,4 +1,4 @@
-# [ThinkPrivacy](https://www.thinkprivacy.io/)
+![ThinkPrivacy](https://www.thinkprivacy.io/images/2019_logo.png)
 
 [![Build Status](https://travis-ci.com/danarel/thinkprivacy.svg?branch=master)](https://travis-ci.com/danarel/thinkprivacy) [![](http://img.shields.io/liberapay/receives/danarel.svg?logo=liberapay)](https://liberapay.com/danarel/) [![](https://img.shields.io/badge/Made%20With-Jekyll-green.svg)](https://jekyllrb.com/)
 
