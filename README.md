@@ -1,4 +1,4 @@
-# [ThinkPrivacy](https://www.thinkprivacy.io/)
+[![ThinkPrivacy](./images/2019_logo.png)](https://www.thinkprivacy.io/)
 
 [![Build Status](https://travis-ci.com/danarel/thinkprivacy.svg?branch=master)](https://travis-ci.com/danarel/thinkprivacy) [![](http://img.shields.io/liberapay/receives/danarel.svg?logo=liberapay)](https://liberapay.com/danarel/) [![](https://img.shields.io/badge/Made%20With-Jekyll-green.svg)](https://jekyllrb.com/)
 
@@ -8,7 +8,7 @@ It's important for a website like ThinkPrivacy.io to be up-to-date and easy to u
 
 **Please see our [contributing guidelines](.github/CONTRIBUTING.md) to learn more.**
 
-**Chat with us.** Find us on [Twitter](https://www.twitter.com/ThinkPrivacyIO) or visit the [contact page](https://thinkprivacy.io/contact.html) and contact the administrator, Dan Arel. This is becoming a community project and we're aiming to deliver the best information available for a better privacy.
+**Chat with us.** Find us on [Twitter](https://www.twitter.com/ThinkPrivacyIO) or visit the [contact page](https://thinkprivacy.io/contact.html) and contact the administrator, Dan Arel. This is becoming a community project, and we're aiming to deliver the best information available for better privacy for all.
 
 ## Building
 
@@ -25,4 +25,4 @@ It's important for a website like ThinkPrivacy.io to be up-to-date and easy to u
 
 # Information and License
 
-Copyright 2018-2019 Dan Arel, and licensed under AGPLv3. 
+Copyright 2018-2019 Dan Arel and contributors, and licensed under Creative Commons Attribution-Share Alike 4.0.

@@ -8,21 +8,21 @@ title: Frequently Asked Questions
 
 Yes, of course!
 
-The best way to contribute or make recommendations is to contact us through [Github](https://github.com/danarel/thinkprivacy){:target="_blank"}
+The best way to contribute or make recommendations is to contact us through [Github](https://github.com/privacytoolsIO/thinkprivacy){:target="_blank"}
 
 
 
-**CAN I QUOTE THINKPRIVACYS’S TEXT ON MY OWN SITE? CAN I TRANSLATE SWITCHING SOCIAL INTO ANOTHER LANGUAGE?**
+**CAN I QUOTE THINKPRIVACYS’S TEXT ON MY OWN SITE? CAN I TRANSLATE THINKPRIVACY INTO ANOTHER LANGUAGE?**
 
-Yes, the text on ThinkPrivacy is available under a GNU AFFERO GENERAL PUBLIC LICENSE Version 3. Please remember to link back to ThinkPrivacy if you use content from this site, and to include a link to this licence.
+Yes, the text on ThinkPrivacy is available under Creative Commons Attribution-Share Alike 4.0. Please remember to link back to ThinkPrivacy if you use content from this site.
 
- 
+
 
 **DO YOU HAVE A PATREON, LIBERAPAY OR OTHER DONATION SERVICE TO SUPPORT THE SITE?**
 
 Yes! You can visit our [**Support page**](support.html) for more information about how you can help support ThinkPrivacy.
 
- 
+
 
 **HOW DO YOU DEFINE “PRIVACY-CONSCIOUS” AND “ETHICAL”?**
 
@@ -34,7 +34,7 @@ The word “ethical” is used in many different ways in modern English. On this
 
 None of the alternatives listed are perfect, but they are better options.
 
- 
+
 
 **WHY ISN’T BRAVE LISTED IN THE BROWSER ALTERNATIVES?**
 
