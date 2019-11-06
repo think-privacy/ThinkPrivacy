@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Please read this before contributing.
+Please read this document in full before contributing.
 
 ## Rules
 
@@ -9,20 +9,20 @@ Please read this before contributing.
 - Be constructive.
 - No Fascists.
 
-**Please read our [Code of Conduct].**
+**Contributors are expected to follow the [Code of Conduct] posted in this repository.**
 
 ## Quality over Quantity
 
-We want to give people the best options, not every option. We need to ensure that we include the easiest, most ethical applications and services while not overwhelming visitors to the point they give up. Before submitting a new app or service, please read their privacy policy and ensure it meets the strictist criteria for respecting user privacy.
+We want to give people the best options, not every option. We need to ensure that we include the easiest, most ethical applications and services while not overwhelming visitors to the point they give up. Before submitting a new app or service, please read their privacy policy and ensure it meets the strictest criteria for respecting user privacy.
 
 ## Software Criteria
 
-- Open Source is prefered but not required
-- Cross-platform, including Linux whenever possible
 - Easy to use
 - Privacy respecting
+- Open Source is preferred, but not required
+- Cross-platform, including Linux whenever possible
 
-There can be exceptions if no software is available that meet the criteria.
+Exceptions can be made if no software is available that meet the criteria in a certain category.
 
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
