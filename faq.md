@@ -8,7 +8,7 @@ title: Frequently Asked Questions
 
 Yes, of course!
 
-The best way to contribute or make recommendations is to contact us through [Github](https://github.com/privacytoolsIO/thinkprivacy){:target="_blank"}
+The best way to contribute or make recommendations is to contact us through [Github](https://github.com/thinkprivacyio/thinkprivacy){:target="_blank"}
 
 
 
