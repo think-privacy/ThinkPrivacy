@@ -7,7 +7,7 @@ title: Organizational Roadmap
 ## January 2020
 
 - Launch new ThinkPrivacy site (status: in progress)
-- Start seeking partnerships to enable to better privacy education (status: I=in progress)
+- Start seeking partnerships to enable to better privacy education (status: in progress)
 - ~~Publish Funding page to add transparency to any partnerships~~ (status: [complete](funding.html))
 
 ## Mid 2020
