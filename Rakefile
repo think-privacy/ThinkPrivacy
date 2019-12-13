@@ -8,6 +8,7 @@
 require 'rake'
 require 'date'
 require 'yaml'
+require 'github-pages'
 
 CONFIG = YAML.load(File.read('_config.yml'))
 USERNAME = CONFIG["username"]
