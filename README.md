@@ -1,6 +1,6 @@
-[![ThinkPrivacy](./assets/images/2019_logo.png)](https://www.thinkprivacy.io/)
+[![ThinkPrivacy](./images/2019_logo.png)](https://www.thinkprivacy.io/)
 
-[![](https://img.shields.io/badge/Made%20With-Jekyll-green.svg)](https://jekyllrb.com/)
+[![Build Status](https://travis-ci.com/danarel/thinkprivacy.svg?branch=master)](https://travis-ci.com/danarel/thinkprivacy) [![](http://img.shields.io/liberapay/receives/danarel.svg?logo=liberapay)](https://liberapay.com/danarel/) [![](https://img.shields.io/badge/Made%20With-Jekyll-green.svg)](https://jekyllrb.com/)
 
 # Contributing
 
@@ -17,36 +17,9 @@ It's important for a website like ThinkPrivacy.io to be up-to-date and easy to u
 1. Run `bundle install` to install the required dependencies.
 1. Use `bundle exec jekyll build` to build the website. The output can be found in the `_site` directory.  Live preview is also possible by running `bundle exec jekyll serve`
 
-### Compiling Styles
-
-The current theme is based on Ghost's Casper and the CSS is compiled as [described here](https://github.com/tryghost/casper#development):
-
-This site's styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need Node and Gulp installed globally. After that, from the theme's root directory:
-
-```bash
-$ npm install
-$ gulp
-```
-
-Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/` automatically.
-
-If you have issues getting Gulp to run properly, run the following commands inside the directory:
-
-```bash
-$ npm install -g n
-
-$ sudo n 11.15.0
-
-$ npm install gulp@^3.9.1
-$ npm install 
-$ npm rebuild node-sass
-```
-
-This will install node v11.15.0 and gulp v3.9.1, newer versions are not compatibile with this compiler script. 
-
 # Support ThinkPrivacy.io
 
-- [Donate.](https://thinkprivacy.io/donate.html)
+- [Donate.](https://thinkprivacy.io/support.html)
 - [Make suggestions on Twitter.](https://www.twitter.com/ThinkPrivacyIO)
 - View and edit our website source code here on GitHub.
 

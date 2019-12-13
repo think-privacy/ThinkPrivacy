@@ -1,12 +1,8 @@
 ---
-layout: page
-current: contact
+layout: default
 title: Contact Us
-navigation: true
-logo: 'assets/images/ghost.png'
-class: page-template
-subclass: 'post page'
 ---
+<h2>{{ page.title }}</h2>
 
 The best way to contact us is via email.
 

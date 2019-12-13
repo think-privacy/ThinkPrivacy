@@ -1,112 +1,72 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
-<head>
-
-    <!-- Document Settings -->
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
-    <!-- Base Meta -->
-    {% include dynamic_title.html %}
-    <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="HandheldFriendly" content="True" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- Styles'n'Scripts -->
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/screen.edited.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/syntax.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}assets/built/grid.css" />
-    <link href="{{ site.baseurl }}assets/built/all.css" rel="stylesheet">
-        <link rel="me" href="https://anticapitalist.party/@danarel">
-        <link rel="me" href="https://mastodon.technology/@danarel">
-    <!-- highlight.js -->
-    <link rel="stylesheet" href="{{ site.baseurl }}assets/built/default.min.css">
-    <style>.hljs { background: none; }</style>
-
-    <!--[if IE]>
-        <style>
-            p, ol, ul{
-                width: 100%;
-            }
-            blockquote{
-                width: 100%;
-            }
-        </style>
-    <![endif]-->
-    
-    <!-- This tag outputs SEO meta+structured data and other important settings -->
-    {% include head.html %}
-
+	<head>
+		<title>ThinkPrivacy - {{ page.title }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link href="{{ "/assets/css/main.css" | relative_url }}" rel="stylesheet">
+	    <link href="{{ "/assets/css/all.css" | relative_url }}" rel="stylesheet">
+		<link rel="me" href="https://anticapitalist.party/@danarel">
+		<link rel="me" href="https://mastodon.technology/@danarel">
+		<link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
+		<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+		   	<meta property="og:title" content="ThinkPrivacy"/>
+		    <meta property="og:type" content="website"/>
+		    <meta property="og:url" content="https://www.thinkprivacy.io"/>
+		    <meta property="og:image" content="https://www.thinkprivacy.io/images/other.jpg"/>
+		    <meta property="og:site_name" content="ThinkPrivacy"/>
 </head>
-<body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
 
-    <div class="site-wrapper">
-        <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
-        {{ content }}
+	<body>
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-        <!-- Previous/next page links - displayed on every page -->
-        {% if paginator.total_posts > site.paginate %}
-            {% if page.class == 'home-template' %}
-                {% include post_pagination.html %}
-            {% elsif page.class == 'page-template' %}
-                {% include post_pagination.html %}
-            {% elsif page.class == 'author-template' %}
-                {% include author_pagination.html %}
-            {% elsif page.class == 'tag-template' %}
-                {% include tag_pagination.html %}
-            {% else %}
-                {% include post_pagination.html %}
-            {% endif %}
-        {% endif %}
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
 
+							<!-- Logo -->
+								<a href="{{ "/index.html" | relative_url }}" class="logo"><img src="images/2019_logo.png" class="new_logo">
+								</a>
+								<!-- /logo -->
 
-    </div>
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
 
+						</div>
+					</header>
 
+				<!-- Menu -->
+				{% include menu.html %}
+				<!-- End Menu -->	
 
-    <!-- highlight.js -->
-    <script src="{{ site.baseurl }}assets/js/prism.js"></script>
-    <script>$(document).ready(function() {
-      $('pre code').each(function(i, block) {
-        hljs.highlightBlock(block);
-      });
-    });</script>
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+						{% if page.topimage %}<span class="image main"><img src="{{ site.url }}/images/{{ page.topimage }}"></span>{% endif %}
+					{{ content }}
+						</div>
+					</div>
+				<!-- /Main -->	
 
-    <!-- jQuery + Fitvids, which makes all video embeds responsive -->
-    <script
-        src="{{ site.baseurl }}assets/js/jquery-3.2.1.min.js"
-        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-        crossorigin="anonymous">
-    </script>
-    <script type="text/javascript" src="{{ site.baseurl }}assets/js/jquery.fitvids.js"></script>
+				<!-- Footer -->
+					{% include footer.html %}
 
+			</div>
 
-    <!-- Paginator increased to "infinit" in _config.yml -->
-    <!-- if paginator.posts  -->
-    <!-- <script>
-        var maxPages = parseInt('{{ paginator.total_pages }}');
-    </script>
-    <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script> -->
-    <!-- /endif -->
+		<!-- Scripts -->
+			{% include scripts.html %}
 
-    {% if paginator.total_pages > site.paginate %}
-    <script>
-        var maxPages = parseInt('{{ paginator.total_pages }}');
-    </script>
-    <script src="{{ site.baseurl }}assets/js/infinitescroll.js"></script>
-    {% endif %}
-
-
-    <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
-    {% if page.class == "post-template" %}
-        {% include post-scripts.html %}
-    {% elsif page.class == "page-template" %}
-        {% include page-scripts.html %}
-    {% endif %}
-
-    <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
-    <!-- ghost_foot -->
-<!-- Footer -->
-                    {% include footer.html %}
-</body>
+	</body>
 </html>

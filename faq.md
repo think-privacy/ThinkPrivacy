@@ -1,17 +1,14 @@
 ---
-layout: page
-current: faq
-title: F.A.Q.
-navigation: true
-class: page-template
-subclass: 'post page'
+layout: default
+title: Frequently Asked Questions
 ---
+<h2>{{ page.title }}</h2>
 
 **CAN I REQUEST OR SUGGEST AN ALTERNATIVE?**
 
 Yes, of course!
 
-The best way to contribute or make recommendations is to contact us through [Github](https://github.com/privacytoolsIO/thinkprivacy){:target="_blank"}
+The best way to contribute or make recommendations is to contact us through [Github](https://github.com/thinkprivacyio/thinkprivacy){:target="_blank"}
 
 
 
@@ -23,7 +20,7 @@ Yes, the text on ThinkPrivacy is available under Creative Commons Attribution-Sh
 
 **DO YOU HAVE A PATREON, LIBERAPAY OR OTHER DONATION SERVICE TO SUPPORT THE SITE?**
 
-Yes! You can visit our [**Donate page**](donate.html) for more information about how you can help support ThinkPrivacy.
+Yes! You can visit our [**Support page**](support.html) for more information about how you can help support ThinkPrivacy.
 
 
 
@@ -31,7 +28,7 @@ Yes! You can visit our [**Donate page**](donate.html) for more information about
 
 The idea of this site is to provide alternatives that have better privacy but are as easy to use as whatever they replace. These are referred to on this site as “privacy-conscious”.
 
-There are usually other alternatives that provide a higher level of privacy but require technical knowledge that most people don’t have.
+There are usually other alternatives that provide a higher level of privacy but require technical knowledge that most people don’t have. For those products, we have listed their difficulty in the table.
 
 The word “ethical” is used in many different ways in modern English. On this site it’s used to mean services and apps that do significantly less harm to people’s privacy, because this site regards user privacy as morally good.
 
@@ -45,4 +42,4 @@ Brave is a commercial company funded by venture capital and its business model i
 
 Also, Peter Thiel (the head of Palantir and a member of Facebook’s board of directors) is a major investor in Brave.
 
-**We do NOT and will not recommend using Brave.**
+**We do NOT recommend using Brave.**

@@ -1,11 +1,8 @@
 ---
-layout: page
-current: funding
-title: Funding Policy / Ethics
-navigation: true
-class: page-template
-subclass: 'post page'
+layout: default
+title: Ethical Funding
 ---
+<h2>{{ page.title }}</h2>
 
 ## Ethical Funding
 
@@ -17,7 +14,7 @@ For us, ethical funding also means we want to make sure that our community knows
 
 Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly.
 
-## Influences (*updated December 2019*)
+## Influences (*updated November 2019*)
 
 This section shows what influences the company is exposed to. This includes received funding, partnerships, supporters, trainings and other things.
 

@@ -1,11 +1,8 @@
 ---
-layout: page
-current: privacy
+layout: default
 title: Privacy Policy
-navigation: true
-class: page-template
-subclass: 'post page'
 ---
+<h2>{{ page.title }}</h2>
 
 This website (thinkprivacy.io) does not use Google Analytics or any user tracking software. The less we know about you, the better.
 

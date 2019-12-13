@@ -5,7 +5,12 @@ rvm:
 before_install:
   - gem install bundler:2.0.1
 
-script: bundle exec rake site:deploy --quiet #--trace
+before_script:
+ - chmod +x ./build.sh  
+
+# Assume bundler is being used, therefore
+# the `install` step will run `bundle install` by default.
+script: ./build.sh
 
 sudo: false # route your build to the container-based infrastructure for a faster build
 

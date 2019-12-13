@@ -24,8 +24,5 @@ We want to give people the best options, not every option. We need to ensure tha
 
 Exceptions can be made if no software is available that meet the criteria in a certain category.
 
-## Writing articles
-
-Unsolicited articles issues via pull request will not be published. Please email dan@thinkprivacy.io with your article idea or request to re-post an article (that you own the rights of). If we decide to publish your article, you are then free to issue a pull request (or we can do that for you).
 
 [Code of Conduct]: CODE_OF_CONDUCT.md
