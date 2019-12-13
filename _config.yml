@@ -17,7 +17,7 @@ logo_dark: assets/images/2019_logo.png
 favicon: assets/images/favicon.ico
 production_url: /
 source_url: https://github.com/thinkprivacyio/thinkprivacy/
-CNAME: #add cname for website to be created
+CNAME: thinkprivacy.io
 
 # Social info
 navigation: True # show the navbar links
