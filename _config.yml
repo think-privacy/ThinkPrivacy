@@ -100,3 +100,4 @@ exclude:
   - "*.Rmd"
   - .git*
   - _drafts
+  - _build
