@@ -1,56 +1,39 @@
 ---
 layout: default
-topimage: mobile.jpg
+current: home
+class: 'home-template'
+navigation: True
 ---
-							<header>
-								<p>Welcome to ThinkPrivacy. This site is a collection of apps, services, and advice on how to protect your data online. From messaging, emailing, and storage, keeping your data encrypted and private is critical in today's age of national surveillance by both the government and private organizations.</p>
-								<p>Looking for a quick guide to help you start protecting your privacy today? Check out our new <a href="/checklist.html">Privacy Checklist</a>!</p>
-							</header>
 
+<!-- < default -->
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
 
-							<a class="indextitle" name="search"><h1>Search Engines</h1></a>
-								{% include search.html %}
+<!-- The big featured header, it uses blog cover image as a BG if available -->
+<header class="site-header outer {% if page.cover or site.cover %}" style="background-image:  url({{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% elsif site.cover %}{{ site.cover }}{% endif %}) {% else %}no-cover{% endif %}">
+    <div class="inner">
+        <div class="site-header-content">
+            <h1 class="site-title">
+                {% if site.logo %}
+                    <img class="site-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}"/>
+                {% else %}
+                    {{ site.title }}
+                {% endif %}
+            </h1>
+            <h2 class="site-description">{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}</h2>
+        </div>
+        {% include site-nav.html %}
+    </div>
+</header>
 
-							<a class="indextitle" name="vpn"><h1>VPN</h1></a>
-								{% include vpn.html %}
+<!-- The main content area -->
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
 
-							<a class="indextitle" name="email"><h1>Email</h1></a>
-								{% include email.html %}
+        <div class="post-feed">
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
+            {%  include post-card.html %}
+        </div>
 
-							<a class="indextitle" name="browsers"><h1>Web Browsers</h1></a>
-								{% include browsers.html %}
-
-							<a class="indextitle" name="messaging"><h1>Messaging</h1></a>
-								{% include messaging.html %}
-
-							<a class="indextitle" name="password"><h1>Password Managers</h1></a>
-								{% include password.html %}
-
-							<a class="indextitle" name="2fa"><h1>Two-Factor Authentication</h1></a>
-								{% include 2fa.html %}
-
-							<a class="indextitle" name="storage"><h1>Storage & Sync</h1></a>
-								{% include storage.html %}
-
-							<a class="indextitle" name="sharing"><h1>File Sharing</h1></a>
-								{% include sharing.html %}
-
-							<a class="indextitle" name="notes"><h1>Notes & Office</h1></a>
-								{% include notes.html %}
-
-							<a class="indextitle" name="dns"><h1>DNS</h1></a>
-								{% include dns.html %}			
-
-							<a class="indextitle" name="os"><h1>Operating Systems</h1></a>
-								{% include os.html %}
-
-							<a class="indextitle" name="mobile"><h1>Mobile Privacy Add-Ons</h1></a>
-								{% include mobile.html %}
-
-							<a class="indextitle" name="socialmedia"><h1>Social Media</h1></a>
-								{% include socialmedia.html %}
-								
-
-
-
-					
+    </div>
+</main>

@@ -1,0 +1,14 @@
+how-to:
+  name: how-to
+  description: False
+  cover: assets/images/other.jpg
+
+service-updates:
+  name: service-updates
+  description: false
+  cover: assets/images/other.jpg
+
+service-recommendations:
+  name: service-recommendations
+  description: Here you will find the products and servicces we recommend
+  cover: assets/images/other.jpg
