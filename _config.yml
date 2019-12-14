@@ -101,3 +101,7 @@ exclude:
   - "*.Rmd"
   - .git*
   - _drafts
+  - .bundle
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
