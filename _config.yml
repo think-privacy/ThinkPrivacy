@@ -105,3 +105,4 @@ exclude:
   - vendor
   - .sass-cache
   - .jekyll-cache
+  - build.sh
