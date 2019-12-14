@@ -3,7 +3,7 @@ layout: post
 current: filesharing
 navigation: True
 cover: assets/images/sharing.jpg
-title: Fire Sharing
+title: File Sharing
 date: 2019-10-2 10:00:00
 tags: [Service Recommendations]
 class: post-template
