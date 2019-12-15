@@ -80,7 +80,7 @@ username: thinkprivacyio
 repo: thinkprivacy
 branch: gh-pages
 relative_source: ../thinkprivacy/
-destination: ../tp_site/
+destination: _site/
 production_url: https://thinkprivacy.io
 source_url:  https://www.github.com/thinkprivacyio/thinkprivacy/ 
 
