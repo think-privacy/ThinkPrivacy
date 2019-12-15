@@ -2,10 +2,8 @@
 <div class="float-left appimg">
 <img src="{{include.image}}" class="applogo" alt="{{include.title}}">
 </div>
-<div class="apphead">
 <div class="float-left clear">
 <h4>{{include.title}} {% if include.country %} - <i class="flag-icon flag-icon-{{include.country}}"></i> {% elsif include.nocountry %} &nbsp; {% else %} - Decentralized {% endif %}</h4>
-</div>
 </div>
 <div class="card-body">
 <p>{% if include.price %} <span class="appprice">{{include.price}}</span> {% endif %}</p>
