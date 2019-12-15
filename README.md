@@ -1,8 +1,6 @@
 [![ThinkPrivacy](https://www.thinkprivacy.io/assets/images/2019_logo.png)](https://www.thinkprivacy.io/)
 
-[![](https://img.shields.io/badge/Made%20With-Jekyll-green.svg)](https://jekyllrb.com/)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2cff0d22-54e5-45ca-9350-305b5258c551/deploy-status)](https://app.netlify.com/sites/inspiring-cray-be7eef/deploys)
+[![](https://img.shields.io/badge/Made%20With-Jekyll-green.svg)](https://jekyllrb.com/) [![Netlify Status](https://api.netlify.com/api/v1/badges/2cff0d22-54e5-45ca-9350-305b5258c551/deploy-status)](https://app.netlify.com/sites/inspiring-cray-be7eef/deploys)
 
 # Contributing
 
@@ -50,7 +48,7 @@ This will install node v11.15.0 and gulp v3.9.1, newer versions are not compatib
 
 - [Donate.](https://thinkprivacy.io/donate.html)
 - [Make suggestions on Twitter.](https://www.twitter.com/ThinkPrivacyIO)
-- View and edit our website source code here on GitHub.
+- View and edit our website source code here on GitLab.
 
 # Information and License
 
