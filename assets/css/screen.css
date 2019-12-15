@@ -2176,6 +2176,15 @@ Usage (In Ghost editor):
     height: 45px;
 }
 
+ @media screen and (max-width: 480px) {
+
+            .applogo {
+                width: 45px;
+                height: 45px;
+}
+                    
+        }
+
 .float-left {
     float: left !important;
 }
