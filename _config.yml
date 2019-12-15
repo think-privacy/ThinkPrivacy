@@ -83,6 +83,9 @@ destination: _site/
 production_url: https://thinkprivacy.io
 source_url:  https://www.github.com/thinkprivacyio/thinkprivacy/ 
 
+include:
+  - _redirects
+
 exclude:
   - node_modules
   - vendor
