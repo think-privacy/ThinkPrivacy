@@ -2161,26 +2161,20 @@ Usage (In Ghost editor):
     margin-bottom: 25px;
 }
 
-.apphead {
-    width: 100%;
-    height: 100%;
-}
-
 .appimg {
     padding-right: 15px;
 }
 
 .applogo {
     margin: 0px !important;
-    width: 45px;
-    height: 45px;
+    width: 45px !important;
+    height: 45px !important;
 }
 
  @media screen and (max-width: 480px) {
 
             .applogo {
-                width: 45px;
-                height: 45px;
+                width: 45px !important;
 }
                     
         }
