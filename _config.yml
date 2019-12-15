@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: https://thinkprivacy.io/
+baseurl: /
 
 # Website info
 title: ThinkPrivacy
@@ -50,7 +50,6 @@ plugins_dir:
 plugins: 
   - jekyll-paginate
   - jekyll-feed
-  - github-pages
 
 feed:
   path: feed.xml
