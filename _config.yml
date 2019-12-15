@@ -16,7 +16,7 @@ logo: assets/images/2019_logo_white.png
 logo_dark: assets/images/2019_logo.png
 favicon: assets/images/favicon.ico
 production_url: https://thinkprivacy.io/
-source_url: https://github.com/thinkprivacyio/thinkprivacy/
+source_url: https://gitlab.com/thinkprivacy/thinkprivacy.io
 CNAME: thinkprivacy.io
 
 # Social info
@@ -75,13 +75,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: thinkprivacyio
-repo: thinkprivacy
-branch: gh-pages
+username: danarel
+repo: thinkprivacy.io
+branch: master
 relative_source: ../thinkprivacy/
 destination: _site/
 production_url: https://thinkprivacy.io
-source_url:  https://www.github.com/thinkprivacyio/thinkprivacy/ 
+source_url:  https://www.gitlab.com/thinkprivacy/thinkprivacy.io/ 
 
 include:
   - _redirects

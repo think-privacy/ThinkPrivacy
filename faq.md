@@ -11,7 +11,7 @@ subclass: 'post page'
 
 Yes, of course!
 
-The best way to contribute or make recommendations is to contact us through [Github](https://github.com/privacytoolsIO/thinkprivacy){:target="_blank"}
+The best way to contribute or make recommendations is to contact us through [Github](https://gitlab.com/ThinkPrivacy/thinkprivacy.io){:target="_blank"}
 
 
 

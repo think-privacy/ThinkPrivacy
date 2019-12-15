@@ -1,12 +1,14 @@
-[![ThinkPrivacy](./assets/images/2019_logo.png)](https://www.thinkprivacy.io/)
+[![ThinkPrivacy](https://www.thinkprivacy.io/assets/images/2019_logo.png)](https://www.thinkprivacy.io/)
 
 [![](https://img.shields.io/badge/Made%20With-Jekyll-green.svg)](https://jekyllrb.com/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2cff0d22-54e5-45ca-9350-305b5258c551/deploy-status)](https://app.netlify.com/sites/inspiring-cray-be7eef/deploys)
 
 # Contributing
 
 It's important for a website like ThinkPrivacy.io to be up-to-date and easy to use for new users. Keep an eye on software updates of the applications listed here. Follow recent news about providers that are recommended. We try our best to keep up but we're not perfect and the internet is changing fast. So if you find an error, or you think a provider should not be listed here, or a qualified service provider is missing or a browser plugin is not the best choice anymore or anything else.
 
-**Please see our [contributing guidelines](.github/CONTRIBUTING.md) to learn more.**
+**Please see our [contributing guidelines](.gitlab/CONTRIBUTING.md) to learn more.**
 
 **Chat with us.** Find us on [Twitter](https://www.twitter.com/ThinkPrivacyIO) or visit the [contact page](https://thinkprivacy.io/contact.html) and contact the administrator, Dan Arel. This is becoming a community project, and we're aiming to deliver the best information available for better privacy for all.
 
