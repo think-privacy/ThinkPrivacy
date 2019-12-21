@@ -1,11 +1,12 @@
 ---
 layout: page
 current: funding
-title: Funding Policy / Ethics
+title: Our partnerships
 navigation: true
 class: page-template
 subclass: 'post page'
 ---
+In order to bring our customers the best possible services and continue funding our business, we will sometimes seek partnerships. This section will list those partnerships so that our work is always transparent and consumers and organizations can see who we work with and why.
 
 ## Ethical Funding
 
@@ -17,7 +18,7 @@ For us, ethical funding also means we want to make sure that our community knows
 
 Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly.
 
-## Influences (*updated December 2019*)
+## Our Partners (*updated December 2019*)
 
 This section shows what influences the company is exposed to. This includes received funding, partnerships, supporters, trainings and other things.
 

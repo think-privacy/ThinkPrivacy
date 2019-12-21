@@ -10,10 +10,10 @@ baseurl: /
 
 # Website info
 title: ThinkPrivacy
-description: ThinkPrivacy is a blog and resource center for all things privacy. Regardless if you’re looking to avoid corporate tracking or government surveillance, we have something to help you.
+description: Helping organizations and consumers find privacy respecting services to best meet their needs.
 cover: assets/images/other.jpg
-logo: assets/images/2019_logo_white.png
-logo_dark: assets/images/2019_logo.png
+logo: assets/images/header_logo.png
+logo_dark: assets/images/header_cover_blue.png
 favicon: assets/images/favicon.ico
 production_url: https://thinkprivacy.io/
 source_url: https://gitlab.com/thinkprivacy/thinkprivacy.io
@@ -26,7 +26,7 @@ subscribers: false # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter: thinkprivacyio # replace by your username
 facebook: # replace by your username
-mastodon: danarel #dont include the @ just your username
+mastodon: thinkprivacy #dont include the @ just your username
 
 # Disqus
 disqus: False
