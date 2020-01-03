@@ -20,7 +20,7 @@ You can use the following addresses to support [ThinkPrivacy.io](https://thinkpr
 
 
 
-**Bitcoin:** `17SdHyB2Kmqs1HuUXXLiZXJhjDDggaxkq9`
+**Bitcoin:** `3G6rmA6qfRgQ1jzzTg9zU2WeiTVouGLxby`
 
 **Ether:** `0xc6EfD5ec4fd7Cb3644F8f359B45EB2A16187a91F`
 
