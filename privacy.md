@@ -7,7 +7,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-This website (thinkprivacy.io) does not use Google Analytics or any user tracking software. The less we know about you, the better.
+This website (thinkprivacy.ch) does not use Google Analytics or any user tracking software. The less we know about you, the better.
 
 When you leave ThinkPrivacy via our links, we cannot vouch for the tracking or cookies used by sites we recommend, however if you use the browser plugins we recommend, you help reduce what they can track. In most cases, they care deeply about privacy as well and don't use invasive tracking software.
 

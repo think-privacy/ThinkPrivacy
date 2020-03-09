@@ -7,7 +7,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-You can use the following addresses to support [ThinkPrivacy.io](https://thinkprivacy.io) with cryptocurrencies or other donation services.
+You can use the following addresses to support [ThinkPrivacy.ch](https://thinkprivacy.ch) with cryptocurrencies or other donation services.
 
 
 **LiberaPay:** [LiberaPay.com/danarel](https://liberapay.com/danarel/){:target="_blank"}
