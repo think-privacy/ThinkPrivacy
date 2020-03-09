@@ -1,2 +1,10 @@
-# Redirect default Netlify subdomain to primary domain
-http://inspiring-cray-be7eef.netlify.com/* http://www.thinkprivacy.io/:splat 301!
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect domain aliases to primary domain
+https://www.thinkprivacy.io/* https://www.thinkprivacy.ch/:splat 301!
+https://thinkprivacy.io/* https://www.thinkprivacy.ch/:splat 301!
+https://www.thinkprivacy.net/* https://www.thinkprivacy.ch/:splat 301!
+https://thinkprivacy.net/* https://www.thinkprivacy.ch/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://inspiring-cray-be7eef.netlify.com/* https://www.thinkprivacy.ch/:splat 301!
