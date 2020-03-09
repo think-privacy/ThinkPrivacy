@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  blogimg/blog_choosemessenger.jpg
+cover:  assets/img/blog/blog_choosemessenger.jpg
 navigation: True
 title: How to Choose the Right Messenger
 date: 2019-12-06 10:00:00

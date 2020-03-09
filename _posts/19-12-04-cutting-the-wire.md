@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  blogimg/blog_delist-wire.png
+cover:  assets/img/blog/blog_delist-wire.png
 navigation: True
 title: Cutting the Wire
 date: 2019-12-06 10:00:00
