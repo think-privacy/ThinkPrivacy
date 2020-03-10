@@ -11,7 +11,7 @@ subclass: 'post tag-service-updates'
 author: danarel
 ---
 
-Over the course of 2020, ThinkPrivacy.io will transition to ThinkPrivacy.ch. In the proceess, we have also secured ThinkPrivacy.net. The .net and .io domains will immediatly begin forwarding to .ch. 
+Over the course of 2020, ThinkPrivacy.io will transition to ThinkPrivacy.ch. In the process, we have also secured ThinkPrivacy.net. The .net and .io domains will immediatly begin forwarding to .ch. 
 
 We are making this move because of the security and ethical concerns surrounding the .io domains. 
 
