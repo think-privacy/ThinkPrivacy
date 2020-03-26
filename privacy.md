@@ -18,4 +18,4 @@ Put simply, we do not track you and we do not know who you are.
 
 ***
 
-This policy was created on May 8, 2018 and was last updated on October 30, 2019. If you have any questions feel free to contact me directly here: dan@thinkprivacy.io.
+This policy was created on May 8, 2018 and was last updated on October 30, 2019. If you have any questions feel free to contact me directly here: dan [at] thinkprivacy.ch.

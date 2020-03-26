@@ -20,5 +20,3 @@ Every piece of software or solution on this site has been tested by us or someon
 **Licensing**
 
 This main pages of the site operate under the Creative Commons Attribution-Share Alike 4.0.
-
-The FAQ section on this site is a modified version of [Switching.Software's](https://www.switching.software) FAQ section.
