@@ -12,3 +12,8 @@ service-recommendations:
   name: service-recommendations
   description: Here you will find the products and servicces we recommend
   cover: assets/images/other.jpg
+
+blogs:
+  name: blogs
+  description: Blogs written by the ThinkPrivacy team
+  cover: assets/images/other.jpg
