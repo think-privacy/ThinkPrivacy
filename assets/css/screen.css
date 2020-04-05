@@ -2176,6 +2176,14 @@ Usage (In Ghost editor):
             .applogo {
                 width: 45px !important;
 }
+
+            .emaillogo {
+                height: 45px !important;
+}
+
+            .emailinfo {
+                display: block;
+            }
                     
         }
 
@@ -2219,11 +2227,5 @@ Usage (In Ghost editor):
     margin: 0px !important;
     height: 45px !important;
 }
-
- .app-logo-table {
-        margin: 0 !important;
-        display: inline !important;
-        width: 200px !important;
-}   
 
 
