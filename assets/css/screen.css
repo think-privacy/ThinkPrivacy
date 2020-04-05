@@ -2205,6 +2205,21 @@ Usage (In Ghost editor):
         padding: 8px;
 }   
 
+    .emailinfo {
+        background: #fff;
+        border: 1px solid #51a4fb;
+        font-size: .7em;
+        font-weight: bold;
+        color: #000;
+        border-radius: 5px;
+        padding: 8px;
+}   
+
+.emaillogo {
+    margin: 0px !important;
+    height: 45px !important;
+}
+
  .app-logo-table {
         margin: 0 !important;
         display: inline !important;

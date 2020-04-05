@@ -1,108 +1,126 @@
-<table>
-<tbody>
-<tr>
-<th>Provider</th>
-<th>Server</th>
-<th>Storage</th>
-<th>Cost / Year</th>
-<th>Encryption</th>
-<th>Custom Domains</th>
-</tr>
-<tr>
-<td data-value="ProtonMail">
-<a href="https://www.ProtonMail.com" target="_blank"><img src="/assets/img/provider/ProtonMail.ch.png" class="app-logo-table"></a>
-</td>
-<td><span class="flag-icon flag-icon-ch"></span> Switzerland</td>
-<td data-value="500">500 MB</td>
-<td data-value="0"><span class="label label-warning">Free</span></td>
-<td data-value="1"><span class="label label-success">Built-in</span></td>
-<td data-value="1"><span class="label label-success">Yes</span></td>
-</tr>
-<tr>
-<td data-value="Tutanota">
-<a href="https://Tutanota.com" target="_blank"><img src="/assets/img/provider/Tutanota.png" class="app-logo-table"></a>
-</td>
-<td><span class="flag-icon flag-icon-de"></span> Germany</td>
-<td data-value="1000">1 GB</td>
-<td data-value="0"><span class="label label-warning">Free</span></td>
-<td data-value="1"><span class="label label-success">Built-in</span></td>
-<td data-value="1"><span class="label label-success">Yes</span></td>
-</tr>
-<tr>
-<td data-value="mailbox.org">
-<a href="https://mailbox.org" target="_blank"><img src="/assets/img/provider/mailbox.org.png" class="app-logo-table"></a>
-</td>
-<td><span class="flag-icon flag-icon-de"></span> Germany</td>
-<td data-value="2000">2 GB</td>
-<td data-value="13">12 €</td>
-<td data-value="1"><span class="label label-success">Built-in</span></td>
-<td data-value="1"><span class="label label-success">Yes</span></td>
-</tr>
-<tr>
-<td data-value="Fastmail">
-<a href="https://www.fastmail.com" target="_blank"><img src="/assets/img/provider/Fastmail.png" class="app-logo-table"></a>
-</td>
-<td><span class="flag-icon flag-icon-au"></span> Australia</td>
-<td data-value="2000">2 GB</td>
-<td data-value="13">$30</td>
-<td data-value="1"><span class="label label-success">Built-in</span></td>
-<td data-value="1"><span class="label label-success">Yes</span></td>
-</tr>	
-<tr>
-<td data-value="Posteo">
-<a href="https://posteo.de" target="_blank"><img src="/assets/img/provider/Posteo.png" class="app-logo-table"></a>
-</td>
-<td><span class="flag-icon flag-icon-de"></span> Germany</td>
-<td data-value="2000">2 GB</td>
-<td data-value="13">12 €</td>
-<td data-value="1"><span class="label label-success">Built-in</span></td>
-<td data-value="0"><span class="label label-primary">No</span></td>
-</tr>
-<tr>
-<td data-value="Soverin">
-<a href="https://soverin.net/" target="_blank"><img src="/assets/img/provider/Soverin.svg" class="app-logo-table"></a>
-</td>
-<td><span class="flag-icon flag-icon-nl"></span> Netherlands</td>
-<td data-value="2000">25 GB</td>
-<td data-value="13">29 €</td>
-<td data-value="1"><span class="label label-success">No</span></td>
-<td data-value="0"><span class="label label-primary">Yes</span></td>
-</tr>
-<tr>
-<td data-value="KolabNow">
-<a href="https://www.kolabnow.com/" target="_blank"><img src="/assets/img/provider/Kolab-Now.png" class="app-logo-table"></a>
-</td>
-<td><span class="flag-icon flag-icon-ch"></span> Switzerland</td>
-<td data-value="2000">2 GB</td>
-<td data-value="13">$60</td>
-<td data-value="1"><span class="label label-success">No</span></td>
-<td data-value="0"><span class="label label-primary">Yes</span></td>
-</tr>
-<tr>
-<td data-value="StartMail">
-<a href="https://startmail.com" target="_blank"><img src="/assets/img/provider/StartMail.png" class="app-logo-table"></a>
-</td>
-<td><span class="flag-icon flag-icon-nl"></span> Netherlands</td>
-<td data-value="2000">10 GB</td>
-<td data-value="13">$59.95</td>
-<td data-value="1"><span class="label label-success">Built-in</span></td>
-<td data-value="1"><span class="label label-success">Yes</span></td>
-</tr>
-<tr>
-<td data-value="Thexyz">
-<a href="https://thexyz.com" target="_blank"><img src="/assets/img/provider/thexyz.png" class="app-logo-table"></a>
-</td>
-<td><span class="flag-icon flag-icon-ca"></span> Canada</td>
-<td data-value="2000">25 GB</td>
-<td data-value="13">$29.95</td>
-<td data-value="1"><span class="label label-success">No</span></td>
-<td data-value="1"><span class="label label-success">Yes</span></td>
-</tr>
-</tbody>
-</table>
-								
+{% include card_email.html
 
+title="ProtonMail"
+image="/assets/img/provider/protonmail.png"
+description='ProtonMail is a Swiss-based email service with no advertising and maximum possible privacy for its users, funded entirely by donations and subscriptions. The basic account is free, with paid-for accounts that have more features and storage.'
+country="ch"
+website="https://protonmail.com/"
+price="Free"
+encryption="Built-In"
+domain="Supported"
+storage="500MB"
+tor="https://protonirockerxow.onion/"
 
+%}
 
+{% include card_email.html
 
-					
+title="Tutanota"
+image="/assets/img/provider/tutanota.png"
+description='Tutanota is an encrypted email and calendar service based in Germany, with no advertising and the emphasis on privacy. The basic account is free, with paid-for accounts that have more features and storage. They also have their own apps for Android and iPhone.'
+country="de"
+website="https://tutanota.com/"
+price="Free"
+encryption="Built-In"
+domain="Supported"
+storage="2GB"
+
+%}
+
+{% include card_email.html
+
+title="Mailbox.org"
+image="/assets/img/provider/mailbox.svg"
+description='Run by a German family business, mailbox.org offers email, online file storage and online office features such as calendars. There’s a one month free trial.'
+country="de"
+website="https://mailbox.org/"
+price="12 €"
+encryption="Built-In"
+domain="Supported"
+storage="1GB"
+
+%}
+
+{% include card_email.html
+
+title="Fastmail"
+image="/assets/img/provider/fastmail.svg"
+description='Fastmail is an Australian company that offers private email funded entirely by its users, with no advertising or tracking. There’s a free trial, after which accounts cost various different prices for different features and amounts of storage space.'
+country="au"
+website="https://fastmail.com/"
+price="$30"
+encryption="Built-In"
+domain="Supported"
+storage="2GB"
+
+%}
+
+{% include card_email.html
+
+title="Posteo"
+image="/assets/img/provider/posteo.jpg"
+description='Posteo is an email service with no advertising, maximum privacy and powered entirely by green electricity. The service is paid for by its users. Posteo doesn’t make its own mobile apps, but you can use their service through your phone’s own built-in email app (or through any email app that supports the IMAP standard).'
+country="de"
+website="https://posteo.de/"
+price="12 €"
+encryption="Built-In"
+domain="No"
+storage="2GB"
+
+%}
+
+{% include card_email.html
+
+title="Soverin"
+image="/assets/img/provider/soverin.jpg"
+description='Soverin is based in the Netherlands and offers privacy-oriented email including custom domain name and optional web page too.'
+country="nl"
+website="https://soverin.net/"
+price="29 €"
+encryption="Built-In"
+domain="Yes"
+storage="25GB"
+
+%}
+
+{% include card_email.html
+
+title="KolabNow"
+image="/assets/img/provider/kolabnow.svg"
+description='Kolab Now is a Swiss email provider with lots of extra services aimed at business people, including a calendar, file sharing, tasks and more. There’s a free trial, after which you pay a fee to continue using the service.'
+country="ch"
+website="https://kolabnow.com/"
+price="$60"
+encryption="No"
+domain="Yes"
+storage="2GB"
+
+%}
+
+{% include card_email.html
+
+title="StartMail"
+image="/assets/img/provider/startmail.png"
+description='StartMail is a privacy focused email service based in The Netherlands from the same minds that brought you Startpage.com.'
+country="nl"
+website="https://startmail.com"
+price="$59.95"
+encryption="Built-In"
+domain="Yes"
+storage="10GB"
+
+%}
+
+{% include card_email.html
+
+title="The Xyz"
+image="/assets/img/provider/thexyz.png"
+description='Thexyz is a Canadian company offering privacy-conscious business email. There are low-price paid basic accounts with additional paid options for professional services such as MS Exchange and calendar sync. As well as the apps below, the service can also be used through any phone or computer app that supports IMAP (or Exchange if you’ve paid extra).'
+country="ca"
+website="https://thexyz.com"
+price="$29.95"
+encryption="No"
+domain="Yes"
+storage="25GB"
+
+%}

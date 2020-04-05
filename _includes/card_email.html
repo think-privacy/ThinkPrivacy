@@ -1,0 +1,21 @@
+<div class="card">
+<div class="float-left appimg">
+<img src="{{include.image}}" class="emaillogo" alt="{{include.title}}">
+</div>
+<div class="float-left clear">
+<h4>{{include.title}} {% if include.country %} - <i class="flag-icon flag-icon-{{include.country}}"></i> {% elsif include.nocountry %} &nbsp; {% else %} - Decentralized {% endif %}</h4>
+</div>
+<div class="card-body">
+  <p>
+      <span class="emailinfo">Cost/Year: {{include.price}}</span>
+      <span class="emailinfo">Encryption: {{include.encryption}}</span>
+      <span class="emailinfo">Custom Domains: {{include.domain}}</span>
+      <span class="emailinfo">Storage: {{include.storage}}</span>
+   </p>   
+<p>{{include.description}}</p>
+<div class="float-right">
+   <a href="{{include.website}}" target="_blank" class="appweb">Website</a>
+   {% if include.tor %}<a href="{{include.tor}}" target="_blank" class="apptor">Tor</a>{% endif %}
+</div>  
+</div>
+</div>
