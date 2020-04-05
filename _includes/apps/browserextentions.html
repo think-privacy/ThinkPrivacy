@@ -1,53 +1,83 @@
-<h2>Desktop Extensions</h2>
+{% include card.html
 
-<div class="table-wrapper">
-										<table>
-											<thead>
-												<tr>
-													<th>Product</th>
-													<th>Description</th>											
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<td><a href="https://github.com/gorhill/uBlock" target="_blank">uBlockOrigin</a></td>
-													<td>uBlockOrigin is a general-purpose blocker, or most well known as an ad-blocker, though it does so much more. This is a must have on any browser.</td>
-													
-												</tr>
-												<tr>
-													<td><a href="https://www.eff.org/https-everywhere" target="_blank">HTTPS Everywhere</a></td>
-													<td>HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.</td>
-													
-												</tr>
-												<tr>
-													<td><a href="https://www.eff.org/privacybadger" target="_blank">Privacy Badger</a></td>
-													<td>Privacy Badger blocks spying ads and invisible trackers.</td>
-													
-												</tr>
-												<tr>
-													<td><a href="https://decentraleyes.org/" target="_blank">Decentraleyes</a></td>
-													<td>Protects you against tracking through “free”, centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.</td>
-													
-												</tr>
-												<tr>
-													<td><a href="https://addons.mozilla.org/firefox/addon/cookie-autodelete/" target="_blank">Cookie AutoDelete</a></td>
-													<td>Automatically removes cookies when they are no longer used by open browser tabs. With the cookies, lingering sessions, as well as information used to spy on you, will be expunged. </td>
-													
-												</tr>	
-												<tr>
-													<td><a href="https://spreadprivacy.com/privacy-simplified/" target="_blank">DuckDuckGo Privacy Essentials</a></td>
-													<td>This add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more.</td>
-													
-												</tr>	
-												<tr>
-													<td><a href="https://addons.mozilla.org/firefox/addon/umatrix/" target="_blank">uMatrix</a></td>
-													<td>uMatrix gives you control over the requests that websites make to other websites. This gives you greater and more fine grained control over the information that you leak online.</td>
-													
-												</tr>
-												<tr>
-													<td><a href="https://addons.mozilla.org/firefox/addon/noscript/" target="_blank">NoScript Security Suite</a></td>
-													<td>Highly customizable plugin to selectively allow Javascript, Java, and Flash to run only on websites you trust. Not for casual users, it requires technical knowledge to configure.</td>							
-												</tr>
-											</tbody>
-										</table>
-									</div>
+title="UBlockOrigin"
+image="/assets/img/addons/ublock_origin.svg"
+description='uBlockOrigin is a general-purpose blocker, or most well known as an ad-blocker, though it does so much more. This is a must have on any browser.'
+nocountry=""
+website="https://github.com/gorhill/uBlock"
+addon="https://addons.mozilla.org/firefox/addon/ublock-origin/"
+github="https://github.com/gorhill/uBlock/"
+
+%}
+
+{% include card.html
+
+title="HTTPS Everywhere"
+image="/assets/img/addons/https_everywhere.svg"
+description='HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.'
+nocountry=""
+website="https://www.eff.org/https-everywhere"
+addon="https://addons.mozilla.org/en-US/firefox/addon/https-everywhere"
+github="https://github.com/EFForg/https-everywhere"
+
+%}
+
+{% include card.html
+
+title="Privacy Badger"
+image="/assets/img/addons/privacy_badger.svg"
+description='Privacy Badger is a browser add-on that stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web. Privacy Badger learns about trackers as you browse.'
+nocountry=""
+website="https://www.eff.org/privacybadger"
+addon="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17"
+github="https://github.com/EFForg/privacybadger"
+
+%}
+
+{% include card.html
+
+title="Decentraleyes"
+image="/assets/img/addons/decentraleyes.svg"
+description='Protects you against tracking through “free”, centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.'
+nocountry=""
+website="https://decentraleyes.org/"
+addon="https://addons.mozilla.org/en-US/firefox/addon/decentraleyes"
+gitlab="https://git.synz.io/Synzvato/decentraleyes"
+
+%}
+
+{% include card.html
+
+title="Cookie AutoDelete"
+image="/assets/img/addons/cookie-autodelete.png"
+description='Automatically removes cookies when they are no longer used by open browser tabs. With the cookies, lingering sessions, as well as information used to spy on you, will be expunged.'
+nocountry=""
+website="https://addons.mozilla.org/firefox/addon/cookie-autodelete/"
+addon="https://addons.mozilla.org/firefox/addon/cookie-autodelete/"
+github="https://github.com/Cookie-AutoDelete/Cookie-AutoDelete"
+
+%}
+
+{% include card.html
+
+title="uMatrix"
+image="/assets/img/addons/umatrix.png"
+description='uMatrix gives you control over the requests that websites make to other websites. This gives you greater and more fine grained control over the information that you leak online.'
+nocountry=""
+website="https://addons.mozilla.org/firefox/addon/umatrix/"
+addon="https://addons.mozilla.org/firefox/addon/umatrix/"
+github="https://github.com/gorhill/uMatrix"
+
+%}
+
+{% include card.html
+
+title="NoScript Security Suite"
+image="/assets/img/addons/noscript.svg"
+description='Highly customizable plugin to selectively allow Javascript, Java, and Flash to run only on websites you trust. Not for casual users, it requires technical knowledge to configure.'
+nocountry=""
+website="https://addons.mozilla.org/firefox/addon/noscript/"
+addon="https://addons.mozilla.org/firefox/addon/noscript/"
+github="https://github.com/hackademix/noscript"
+
+%}

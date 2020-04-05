@@ -17,4 +17,6 @@ While Google Chrome may dominate today's browser market, it's also tracking and 
 
 {% include /apps/browsers.html %}
 
+<h2>Browser Extensions</h2>
+
 {% include /apps/browserextentions.html %}
