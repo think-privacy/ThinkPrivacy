@@ -15,6 +15,6 @@ Sending unecrypted messages can be a privacy and security nightmare. SMS message
 
 Not sure what to look for when choosing a messenger? [Read our helpful article for our advice](choosing-the-right-messenger).
 
-<p><strong>Use Instead Of:</strong> WhatsApp, Facebook Messanger, Telegram, SMS, Snapchat, Discord, or Slack.</p>
+<p><strong>Use Instead Of:</strong> WhatsApp, Facebook Messanger, Telegram, SMS, Zoom, Snapchat, Discord, or Slack.</p>
 
 {% include /apps/messaging.html %}
