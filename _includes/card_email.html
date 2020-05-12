@@ -3,9 +3,10 @@
 <img src="{{include.image}}" class="emaillogo" alt="{{include.title}}">
 </div>
 <div class="float-left clear">
-<h4>{{include.title}} {% if include.country %} - <i class="flag-icon flag-icon-{{include.country}}"></i> {% elsif include.nocountry %} &nbsp; {% else %} - Decentralized {% endif %} - <span class="appprice">{{include.price}}</span></h4>
+<h4>{{include.title}} {% if include.country %} - <i class="flag-icon flag-icon-{{include.country}}"></i> {% elsif include.nocountry %} &nbsp; {% else %} - Decentralized {% endif %}</h4>
 </div>
 <div class="card-body">
+<p><span class="appprice">{{include.price}}</span></p>
 <p>{{include.description}}</p>
 <div class="float-left">
       {% if include.encryption %}<span class="emailinfo">Encrypted</span>{% endif %}
