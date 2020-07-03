@@ -1957,13 +1957,13 @@ Usage (In Ghost editor):
 
             #footer > .inner section:nth-child(2) {
                 width: calc(33% - 2.5em);
-                margin-left: 2.5em;
+                margin-left: 0em;
             }
 
             #footer > .inner .copyright {
                 width: 100%;
                 padding: 0;
-                margin-top: 5em;
+                margin-top: 2em;
                 list-style: none;
                 font-size: 0.8em;
                 color: rgba(88, 88, 88, 0.5);
@@ -1993,7 +1993,8 @@ Usage (In Ghost editor):
                     }
 
                     #footer > .inner img {
-                        max-width: 55px;
+                        max-width: 300px;
+                        margin-top: 2em;
                         border: none;
                     }
 
