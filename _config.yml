@@ -85,7 +85,6 @@ source_url:  https://www.gitlab.com/thinkprivacy/thinkprivacy.io/
 
 include:
   - _redirects
-  - _data
 
 exclude:
   - node_modules
