@@ -23,5 +23,7 @@ ssh:
   before_script:
     - apt-get update -y
     - apt-get install -y rsync
+    - echo "$SSH_KNOWN_HOSTS" >> ~/.ssh/known_hosts
+    - chmod 644 ~/.ssh/known_hosts
   script:
     - rsync -a public/* $SSH_USER@199.192.19.197:/var/www/thinkprivacy.ch/html/ 
