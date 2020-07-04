@@ -1,8 +1,12 @@
 image: ruby:2.6
 
+cache:
+  paths:
+    - vendor/
+
 before_script:
   - gem install bundler
-  - bundle install
+  - bundle install --path vendor
 
 pages:
   stage: build
@@ -17,5 +21,4 @@ pages:
 ssh:
   stage: deploy
   script:
-    - apt install rsync
     - rsync -a public/* $SSH_USER@199.192.19.197:/var/www/thinkprivacy.ch/html/ 
