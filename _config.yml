@@ -36,7 +36,7 @@ disqus_shortname:
 google_analytics: 
 
 # Permalinks
-  permalink: /:title/
+permalink: /:title/
 # permalink: /author/:author
 # permalink: /tag/:tag/
 
