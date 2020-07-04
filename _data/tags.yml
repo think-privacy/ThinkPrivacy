@@ -10,7 +10,7 @@ service-updates:
 
 service-recommendations:
   name: service-recommendations
-  description: Here you will find the products and servicces we recommend
+  description: Here you will find the products and services we recommend
   cover: assets/images/other.jpg
 
 blogs:

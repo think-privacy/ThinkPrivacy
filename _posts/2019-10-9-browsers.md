@@ -9,7 +9,6 @@ tags: [Service Recommendations]
 class: post-template
 subclass: 'post tag-service-recommendations'
 author: thinkprivacy
-permalink: /browsers/
 ---
 
 While Google Chrome may dominate today's browser market, it's also tracking and monetizing your every move. We don't recommend anyone use Chrome, and instead, look to some of the options below.
