@@ -1,9 +1,5 @@
 image: ruby:2.6
 
-cache:
-  paths:
-  - vendor/
-  
 pages:
   stage: build
   script:
@@ -15,9 +11,8 @@ pages:
   only:
   - master
 
-ftp:
+ssh:
   stage: deploy
   script:
-    - apt-get update -qy
-    - apt-get install -y lftp  
-    - lftp -e "set ftp:ssl-allow no; open ftp.myserver.com; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose public/ public_html/; bye"
+    - apt install rsync
+    - rsync -a public/* $SSH_USER@199.192.19.197:/var/www/thinkprivacy.ch/html/ 
