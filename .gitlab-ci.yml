@@ -22,7 +22,7 @@ ssh:
   stage: deploy
   before_script:
     - apt-get update -y
-    - apt-get install rsync
+    - apt-get install rsync -y
 # Setup SSH deploy keys
     - 'which ssh-agent || ( apt-get install -qq openssh-client )'
     - eval $(ssh-agent -s)
