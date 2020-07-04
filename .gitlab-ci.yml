@@ -1,0 +1,23 @@
+image: ruby:2.6
+
+cache:
+  paths:
+  - vendor/
+  
+pages:
+  stage: build
+  script:
+    - bundle install --path vendor
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+
+ftp:
+  stage: deploy
+  script:
+    - apt-get update -qy
+    - apt-get install -y lftp  
+    - lftp -e "set ftp:ssl-allow no; open ftp.myserver.com; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose public/ public_html/; bye"
