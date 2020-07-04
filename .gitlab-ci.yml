@@ -7,7 +7,7 @@ cache:
 before_script:
   - gem install bundler
   - bundle install --path vendor
-  - apt-get install -y rsync
+  - apk update && apk add openssh-client bash rsync
 
 pages:
   stage: build
