@@ -11,11 +11,11 @@ This website (thinkprivacy.ch) does not use Google Analytics or any user trackin
 
 When you leave ThinkPrivacy via our links, we cannot vouch for the tracking or cookies used by sites we recommend, however if you use the browser plugins we recommend, you help reduce what they can track. In most cases, they care deeply about privacy as well and don't use invasive tracking software.
 
-We don't use cookies, and when possible we host all scripts on our site. If we host any scripts offsite, we ensure they do not include any tracking software or cookies. Your visit to this site is as anonymous as we can make it.
+We don't use cookies, and we host all scripts on our site. Your visit to this site is as anonymous as we can make it.
 
 Put simply, we do not track you and we do not know who you are.
 
 
 ***
 
-This policy was created on May 8, 2018 and was last updated on October 30, 2019. If you have any questions feel free to contact me directly here: dan [at] thinkprivacy.ch.
+This policy was created on May 8, 2018 and was last updated on July 3, 2020. If you have any questions feel free to contact me directly here: dan [at] thinkprivacy.ch.
