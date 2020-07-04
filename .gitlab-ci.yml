@@ -30,4 +30,4 @@ ssh:
     - mkdir -p ~/.ssh
     - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
   script:
-    - rsync -a public/* $SSH_USER@$IP_ADDRESS:/var/www/thinkprivacy.ch/html/ 
+    - rsync -a _site/* $SSH_USER@$IP_ADDRESS:/var/www/thinkprivacy.ch/html/ 
