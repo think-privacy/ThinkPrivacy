@@ -1,9 +1,12 @@
 image: ruby:2.6
 
+before_script:
+  - gem install bundler
+  - bundle install
+
 pages:
   stage: build
   script:
-    - bundle install --path vendor
     - bundle exec jekyll build -d public
   artifacts:
     paths:
