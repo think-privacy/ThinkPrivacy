@@ -23,7 +23,7 @@ ssh:
   before_script:
     - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client rsync -y )'
     - eval $(ssh-agent -s)
-    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
+    - echo "$SSH_KNOWN_HOSTS" | tr -d '\r' | ssh-add -
     - mkdir -p ~/.ssh
     - chmod 700 ~/.ssh
   script:
