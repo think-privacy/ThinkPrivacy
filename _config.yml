@@ -80,7 +80,7 @@ repo: thinkprivacy.io
 branch: master
 relative_source: ../thinkprivacy/
 destination: _site/
-production_url: https://thinkprivacy.io
+production_url: https://thinkprivacy.ch
 source_url:  https://www.gitlab.com/thinkprivacy/thinkprivacy.io/ 
 
 include:
