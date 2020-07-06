@@ -5,7 +5,7 @@ cover:  assets/img/blog/tp_cover.png
 navigation: True
 title: New ThinkPrivacy Domain
 date: 2020-03-09 10:00:00
-tags: [How To]
+tags: [Service Updates]
 class: post-template
 subclass: 'post tag-service-updates'
 author: danarel
