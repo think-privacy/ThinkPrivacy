@@ -17,5 +17,3 @@ The site's sole purpose is to make it easier for you to find software and tools 
 
 Every piece of software or solution on this site has been tested by us or someone we trust. This site will only recommend software and tools we can stand behind. While developers can offer free trials or accounts to us, that won't help them get listed. If we get a free account and it does not meet the site's standards, it won't be listed.
 
-A
-
