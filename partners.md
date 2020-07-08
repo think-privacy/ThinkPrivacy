@@ -10,16 +10,22 @@ In order to bring our customers the best possible services and continue funding 
 
 ## Ethical Funding
 
-Taking money always means the possibility of being influenced. That is why we see it as our responsibility to be thoughtful about taking any outside funding. We do not want organizaions or individuals to feel as though they have gained influence over our decisions or taking money from anyone who goes against our values.
+Taking money always means the possibility of being influenced. That is why we see it as our responsibility to be thoughtful about taking any outside funding. We do not want organizations or individuals to feel as though they have gained influence over our decisions or taking money from anyone who goes against our values.
 
-## Transparent Funding Policy
+## Transparent Funding & In-Kind Policy
 
 For us, ethical funding also means we want to make sure that our community knows who has contributed to ThinkPrivacy in any way.
 
 Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly.
 
-## Our Partners (*updated April 2020*)
+## Our Partners (*updated July 2020*)
 
 This section shows what influences the company is exposed to. This includes received funding, partnerships, supporters, trainings and other things.
 
-*Currently there is no funding or partnerships to report.*
+***
+
+<a href="https://www.namecheap.com/hosting/vps/" target="_blank"><img src="{{ site.baseurl }}assets/images/namecheap_dark.png" width="400px"></a>
+
+Namecheap provides ThinkPrivacy with VPS hosting and domain name support.
+
+***
