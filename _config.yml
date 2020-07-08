@@ -16,7 +16,7 @@ logo: assets/images/header_logo.png
 logo_dark: assets/images/header_cover_blue.png
 favicon: assets/images/favicon.ico
 production_url: https://thinkprivacy.ch/
-source_url: https://gitlab.com/thinkprivacy/thinkprivacy.io
+source_url: https://199.192.19.197/repos/thinkprivacy.git
 CNAME: thinkprivacy.ch
 
 # Social info
@@ -76,12 +76,12 @@ feed:
 safe: False
 lsi: False
 username: danarel
-repo: thinkprivacy.io
+repo: thinkprivacy
 branch: master
 relative_source: ../thinkprivacy/
 destination: _site/
 production_url: https://thinkprivacy.ch
-source_url:  https://www.gitlab.com/thinkprivacy/thinkprivacy.io/ 
+source_url: https://199.192.19.197/repos/thinkprivacy.git
 
 include:
   - _redirects
