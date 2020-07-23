@@ -24,7 +24,7 @@ navigation: True # show the navbar links
 subscribers: false # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: thinkprivacyio # replace by your username
+twitter: thinkprivacy_ # replace by your username
 facebook: # replace by your username
 mastodon: thinkprivacy #dont include the @ just your username
 
