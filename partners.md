@@ -8,9 +8,11 @@ subclass: 'post page'
 ---
 In order to bring our customers the best possible services and continue funding our business, we will sometimes seek partnerships. This section will list those partnerships so that our work is always transparent and consumers and organizations can see who we work with and why.
 
+If you're interested in sponsoring ThinkPrivacy, contact dan@thinkprivacy.ch. 
+
 ## Ethical Funding
 
-Taking money always means the possibility of being influenced. That is why we see it as our responsibility to be thoughtful about taking any outside funding. We do not want organizations or individuals to feel as though they have gained influence over our decisions or taking money from anyone who goes against our values.
+Taking money always means the possibility of being influenced. That is why we see it as our responsibility to be thoughtful about taking any outside funding. We do not want organizations or individuals to feel as though they have gained influence over our decisions or taking money from anyone who goes against our values. Our sponsors do not get listed because of their sponsorship and we will not use affiliate links for sponsors. Sponsors only help support the maintaining of this website and its projects. 
 
 ## Transparent Funding & In-Kind Policy
 
@@ -18,7 +20,7 @@ For us, ethical funding also means we want to make sure that our community knows
 
 Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly.
 
-## Our Partners (*updated August 2020*)
+## Our Partners (*updated October 2020*)
 
 This section shows what influences the company is exposed to. This includes received funding, partnerships, supporters, trainings and other things.
 
