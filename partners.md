@@ -28,6 +28,6 @@ This section shows what influences the company is exposed to. This includes rece
 
 <a href="https://www.namecheap.com/hosting/vps/" target="_blank"><img src="{{ site.baseurl }}assets/images/namecheap_dark.png" width="400px"></a>
 
-Namecheap provides ThinkPrivacy with VPS hosting and domain name support.
+Namecheap provides ThinkPrivacy with VPS hosting and domain name support. Namecheap has provided services since July 2020. They currently have no services in our privacy recommendations.
 
 ***
