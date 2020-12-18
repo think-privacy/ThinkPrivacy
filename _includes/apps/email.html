@@ -43,20 +43,6 @@ storage="10GB"
 
 {% include card_email.html
 
-title="Fastmail"
-image="/assets/img/provider/fastmail.svg"
-description='Fastmail is an Australian company that offers private email funded entirely by its users, with no advertising or tracking. There’s a free trial, after which accounts cost various different prices for different features and amounts of storage space.'
-country="au"
-website="https://fastmail.com/"
-price="$30/year"
-encryption=""
-domain=""
-storage="2GB"
-
-%}
-
-{% include card_email.html
-
 title="Hey"
 image="/assets/img/provider/hey.jpg"
 description='Hey is an email client from the people behind Basecamp. Hey offers a unique way to manage incoming emails and prioritize how you answer them. It blocks third party trackers, is ad free, and your email is encrypted at rest.'
@@ -120,5 +106,18 @@ website="https://mailfence.com/"
 price="Free"
 storage="500MB"
 domain=""
+
+%}
+
+{% include card_email.html
+
+title="Fastmail"
+image="/assets/img/provider/fastmail.svg"
+description='Fastmail is an Australian company that offers private email funded entirely by its users, with no advertising or tracking. There’s a free trial, after which accounts cost various different prices for different features and amounts of storage space.'
+country="au"
+website="https://fastmail.com/"
+price="$30/year"
+domain=""
+storage="2GB"
 
 %}
