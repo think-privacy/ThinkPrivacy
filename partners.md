@@ -20,7 +20,7 @@ For us, ethical funding also means we want to make sure that our community knows
 
 Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly.
 
-## Our Partners (*updated February 2021*)
+## Our Partners (*updated March 2021*)
 
 This section shows what influences the company is exposed to. This includes received funding, partnerships, supporters, trainings and other things.
 
