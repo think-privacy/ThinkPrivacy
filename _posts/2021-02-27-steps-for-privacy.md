@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/img/blog/google_search.jpeg
 navigation: True
-title: "Simple steps to follow in order to ensure greater personal internet privacy"
+title: Simple steps to follow in order to ensure greater personal internet privacy
 date: 2021-02-27 06:00:00
 tags: [Blogs]
 class: post-template
@@ -13,7 +13,7 @@ author: danarel
 
 Recently, the privacy search engine Startpage [released a study](https://www.securitymagazine.com/articles/94560-of-americans-very-concerned-about-online-privacy-but-most-dont-take-any-significant-action?ref=hackernoon.com) finding that 75% of Americans stated they are very concerned about online privacy. That’s a lot of people, and a great sign for the future of privacy; or is it?
 
-What was so disheartening about the findings was how many people were unwilling to take action to put privacy in their own hands. The study labeled this “privacy inertia” and even noted that younger groups of people said it was easier to leave their partner than it is to leave social media or other companies that don’t respect their privacy.
+What was so disheartening about the findings was how many people were unwilling to take action to put privacy in their own hands. The study labeled this “privacy inertia” and even noted that younger groups of people said it was easier to leave their partner than it is to leave social media or other companies that don’t respect their privacy.<!--more-->
 
 According to Timothy A. Pychyl, Ph.D., Associate Professor of Psychology at Carleton University, this is because "'Privacy inertia' shares many similarities with other irrational delays in our lives. When we don't know what to do, we often delay doing anything, despite expecting to be worse off for this delay, which is, of course, the irrational self-defeating aspect of procrastination."
 
@@ -51,4 +51,4 @@ These 10 easy steps build off the first few I mentioned here and give you other 
 
 In the end, even if you never get passed changing your search engine, you’ve taken leaps and bounds to give yourself more privacy when you’re browsing online.
 
-This article first appeared on [HackerNoon >>](https://hackernoon.com/simple-steps-to-follow-in-order-to-ensure-greater-personal-internet-privacy-u54l335i){:target="_blank"}
+This article first appeared on [HackerNoon >>](https://hackernoon.com/simple-steps-to-follow-in-order-to-ensure-greater-personal-internet-privacy-u54l335i)
