@@ -4,12 +4,11 @@ current: post
 cover:  assets/img/blog/system1-interview.png
 navigation: True
 title: "Interview with System1’s Co-Founder and CEO Michael Blend"
-date: 2021-03-16 06:00:00
+date: 2021-03-17 06:00:00
 tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
-hidden: true
 ---
 
 Recently I had the opportunity to chat with System1’s CEO Michael Blend to discuss the 2019 partnership with the privacy respecting search engine Startpage.
