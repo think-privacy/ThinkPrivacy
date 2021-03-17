@@ -15,5 +15,5 @@ service-recommendations:
 
 blogs:
   name: blogs
-  description: Blogs written by the ThinkPrivacy team
+  description: The official blog of ThinkPrivacy
   cover: assets/images/other.jpg
