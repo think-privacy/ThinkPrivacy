@@ -5,10 +5,11 @@ cover:  assets/img/blog/tp_cover.png
 navigation: True
 title: 'ThinkPrivacy: Powered by Namecheap'
 date: 2020-07-05 10:00:00
-tags: [Service Updates]
+tags: [Blogs]
 class: post-template
-subclass: 'post tag-service-updates'
+subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 ThinkPrivacy is excited to announce we have been accepted into the ["Powered by Namecheap"](https://www.namecheap.com/get-powered-by-namecheap/) program. This program will allow us to grow our site and expand our offerings to the privacy community. 
