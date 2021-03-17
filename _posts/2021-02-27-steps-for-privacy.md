@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 Recently, the privacy search engine Startpage [released a study](https://www.securitymagazine.com/articles/94560-of-americans-very-concerned-about-online-privacy-but-most-dont-take-any-significant-action?ref=hackernoon.com) finding that 75% of Americans stated they are very concerned about online privacy. That’s a lot of people, and a great sign for the future of privacy; or is it?

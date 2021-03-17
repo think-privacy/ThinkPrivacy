@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 With the pandemic still growing around the world, it will be little surprise that online shopping will likely see one of its biggest years ever. However, with more shopping being done online comes more risk to one’s privacy, and security.

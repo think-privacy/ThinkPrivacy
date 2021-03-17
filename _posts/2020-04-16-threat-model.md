@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 As the creator of [ThinkPrivacy](https://www.thinkprivacy.ch), I often get asked why we list certain options, or don’t list others. It’s common for me to hear from a visitor that I shouldn’t recommend certain closed-source software and they will instead send me other recommendations. Often times their recommendations are great, but sometimes harder to use.

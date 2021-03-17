@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 One of the most popular questions I get at ThinkPrivacy is when to use certain tools and when not to use them. Often times, the questions turn out to be an honest misunderstanding of how some tools work, how they should work, or when someone should actually utilize a more extreme measure of privacy and when not.
 

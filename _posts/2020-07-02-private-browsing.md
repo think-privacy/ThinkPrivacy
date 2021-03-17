@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 One of the most misunderstood features on most modern browsers is Private Mode, or sometimes called Incognito mode. When I am offering advice on measures people can take in their privacy such as using a private search engine or a VPN, I am told, “I don’t need those, I use private browsing mode all the time.” Worse, I have seen people in office environments using private browsing on their work computers, visiting personal sites such as social media or shopping.

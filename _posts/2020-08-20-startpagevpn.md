@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 When it comes to internet privacy, there is one tool which gives many internet users a false sense of security out of the box, and that’s a VPN. I recently wrote about how a VPN can help mask your [IP address](https://www.startpage.com/privacy-please/privacy-awareness/what-does-your-ip-address-reveal-about-you){:target="_blank"} and don’t get me wrong, I encourage everyone to use a VPN.
 

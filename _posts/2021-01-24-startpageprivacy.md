@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 For many people who have decided to switch from a non-privacy respecting search engine to one that respects your privacy such as Startpage, many questions still remain about just how private those searches can be, but also how can the quality of these alternatives compete?

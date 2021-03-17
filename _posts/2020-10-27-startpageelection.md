@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 It seems every few years in the US the conversation about electronic voting and voter hacking come into the spotlight and voters and news pundits discuss whether voters should be using voting machines or paper ballots and if this or that foreign country is trying to hack our voting machines.

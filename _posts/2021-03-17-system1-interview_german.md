@@ -5,9 +5,9 @@ cover:  assets/img/blog/system1-interview.png
 navigation: True
 title: "Interview mit System1 Mitgründer und CEO Michael Blend"
 date: 2021-03-17 06:00:00
-tags: [Blogs]
+tags: [german]
 class: post-template
-subclass: 'post tag-blogs'
+subclass: 'post tag-german'
 author: danarel
 hidden: true
 ---

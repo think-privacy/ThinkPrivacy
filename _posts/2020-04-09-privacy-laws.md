@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 Over the last few years, the European Union, and US states like California have done a good job of passing consumer privacy laws, the [GDPR and CCPA respectively](https://www.startpage.com/blog/privacy-news/overview-startpage-gdpr-ccpa/). While neither law is perfect, they have been seen by many as steps in the right direction for putting a user’s personal data back in their control.

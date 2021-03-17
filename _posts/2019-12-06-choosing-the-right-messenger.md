@@ -5,10 +5,11 @@ cover:  assets/img/blog/blog_choosemessenger.jpg
 navigation: True
 title: How to Choose the Right Messenger
 date: 2019-12-06 10:00:00
-tags: [How To]
+tags: [Blogs]
 class: post-template
-subclass: 'post tag-how-to'
+subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 

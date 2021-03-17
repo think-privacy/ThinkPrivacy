@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 After the passing of the Patriot Act in 2001, we have seen the erosion of privacy rights and civil liberties in the United States. Every few years though, parts of the act are supposed to expire as they should be deemed unnecessary and rights returned to US citizens.

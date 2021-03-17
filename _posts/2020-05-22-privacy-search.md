@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 With so many search engines already on the market, and privacy gaining in popularity, you may not be surprised to hear about how many search engines ask to be included on my site [ThinkPrivacy](https://www.thinkprivacy.ch). With an influx of new services comes questions about who you can trust, what makes them different from each other, and who is giving me the best search results.

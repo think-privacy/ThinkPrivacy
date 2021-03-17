@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 People around the world are now starting to realize working from home may be the new “normal” for some time to come. While many have found this to be relaxing, easier, and perhaps just works better for their already busy schedules in general, it does pose some issues.

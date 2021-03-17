@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 Safely shopping online does go beyond simply ensuring your payment information is sent securely.  If we’ve learned anything in the last decade, it’s that even the largest companies on the planet are vulnerable to [massive data breaches](https://www.startpage.com/privacy-please/startpage-articles/five-of-the-biggest-data-hacks-from-yahoo-to-ashley-madison-and-equifax){:target="_blank"}.

@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 As the COVID-19 pandemic goes on, life for some around the world is beginning to look a little more like it did before, except with some more distancing, and more people wearing masks. What doesn’t look the same, is how technology is being used to monitor and track cases, infection rates, and outbreaks.
 

@@ -17,3 +17,8 @@ blogs:
   name: blogs
   description: The official blog of ThinkPrivacy
   cover: assets/images/other.jpg
+
+german:
+  name: german
+  description: German language blog posts
+  cover: assets/images/other.jpg

@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 In 2013, Edward Snowden, a contractor with the NSA, leaked documents to journalists that exposed the United States mass surveillance program of Americans’ telephone records. When Snowden leaked the documents, he fled immediately to Russia as he was, and still is, facing US espionage changes.

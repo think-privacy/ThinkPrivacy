@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 As privacy advocates, we often discuss what steps we take to personally secure our lives and devices yet rarely do we talk about the steps we take to do the same for those around us, more specifically, our families.
