@@ -7,15 +7,20 @@ class: page-template
 subclass: 'post page'
 ---
 
-This website (thinkprivacy.ch) does not use Google Analytics or any user tracking software. The less we know about you, the better.
+This website (thinkprivacy.ch) does not use any invasive tracking software. We use Matomo and log no user information. We fully mask the IP address of the visitor, and we do not use tracking cookies. We use this to see how many visits we reveiece and which pages are of use to our users. We do not want to know who are users are. The less we know, the better.
+
+We also respect your browsers Do Not Track settings.
+
+<iframe
+        style="border: 0; height: 200px; width: 600px;"
+        src="https://stats.thinkprivacy.ch/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=&fontColor=&fontSize=&fontFamily="
+        ></iframe>
 
 When you leave ThinkPrivacy via our links, we cannot vouch for the tracking or cookies used by sites we recommend, however if you use the browser plugins we recommend, you help reduce what they can track. In most cases, they care deeply about privacy as well and don't use invasive tracking software.
 
 We don't use cookies, and we host all scripts on our site. Your visit to this site is as anonymous as we can make it.
 
-Put simply, we do not track you and we do not know who you are.
-
 
 ***
 
-This policy was created on May 8, 2018 and was last updated on July 3, 2020. If you have any questions feel free to contact me directly here: dan [at] thinkprivacy.ch.
+This policy was created on May 8, 2018 and was last updated on March 23, 2021. If you have any questions feel free to contact me directly here: dan [at] thinkprivacy.ch.
