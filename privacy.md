@@ -7,14 +7,29 @@ class: page-template
 subclass: 'post page'
 ---
 
-This website (thinkprivacy.ch) does not use any invasive tracking software. We use Matomo and log no user information. We fully mask the IP address of the visitor, and we do not use tracking cookies. We use this to see how many visits we reveiece and which pages are of use to our users. We do not want to know who are users are. The less we know, the better.
+This website (thinkprivacy.ch) does not use any invasive tracking software. We use Matomo and log no identifiable user information. 
 
-We also respect your browsers Do Not Track settings.
+# What we collect
+
+- Country of origin
+- Browser (Only version number)
+- Operating system (Only version number)
+
+# What we don't collect
+
+- Your IP Address (we anonynmize all IP addresses to 0.0.0.0)
+- Personally identifible browser or OS information
+
+# We also respect your browsers Do Not Track settings.
 
 <iframe
         style="border: 0; height: 200px; width: 600px;"
         src="https://stats.thinkprivacy.ch/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=&fontColor=&fontSize=&fontFamily="
         ></iframe>
+
+# Who do we share this data with?
+
+No one. No information we have is shared with anyone. We collect this minimal amount of data only to better understand how many vistitors ThinkPrivacy receives and what pages they use. 
 
 When you leave ThinkPrivacy via our links, we cannot vouch for the tracking or cookies used by sites we recommend, however if you use the browser plugins we recommend, you help reduce what they can track. In most cases, they care deeply about privacy as well and don't use invasive tracking software.
 
