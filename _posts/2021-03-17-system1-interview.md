@@ -9,6 +9,7 @@ tags: [Blogs]
 class: post-template
 subclass: 'post tag-blogs'
 author: danarel
+hidden: true
 ---
 
 Recently I had the opportunity to chat with System1’s CEO Michael Blend to discuss the 2019 partnership with the privacy respecting search engine Startpage.
