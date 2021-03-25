@@ -29,7 +29,7 @@ This website (thinkprivacy.ch) does not use any invasive tracking software. We u
 
 ## Who do we share this data with?
 
-No one. No information we have is shared with anyone. We collect this minimal amount of data only to better understand how many vistitors ThinkPrivacy receives and what pages they use.
+**No one**. No information we have is shared with anyone. We collect this minimal amount of data only to better understand how many vistitors ThinkPrivacy receives and what pages they use.
 
 ## Affiliate links
 
@@ -42,4 +42,4 @@ When you leave ThinkPrivacy via our links, we cannot vouch for the tracking or c
 
 ***
 
-This policy was created on May 8, 2018 and was last updated on March 23, 2021. If you have any questions feel free to contact me directly here: dan [at] thinkprivacy.ch.
+This policy was created on May 8, 2018 and was last updated on March 25, 2021. If you have any questions feel free to contact me directly here: dan [at] thinkprivacy.ch.
