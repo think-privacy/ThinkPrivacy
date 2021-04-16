@@ -15,4 +15,4 @@ You can use the following addresses to support ThinkPrivacy.ch with cryptocurren
 
 **Bitcoin:** `3G6rmA6qfRgQ1jzzTg9zU2WeiTVouGLxby`
 
-Interesred in a partnership or sponsoring our project? [get in touch!](contact)
+Interesred in a partnership or sponsoring our project? [get in touch!](../contact)
