@@ -18,7 +18,7 @@ Taking money always means the possibility of being influenced. That is why we se
 
 For us, ethical funding also means we want to make sure that our community knows who has contributed to ThinkPrivacy in any way.
 
-Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly.
+Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly. Partnerships and donations will be listed for one year following the end of partnerships or donations.
 
 ## Our Partners (*updated April 2021*)
 
@@ -28,7 +28,7 @@ This section shows what influences the company is exposed to. This includes part
 
 <a href="https://www.namecheap.com/hosting/vps/" target="_blank"><img src="{{ site.baseurl }}assets/images/namecheap_dark.png" width="400px"></a>
 
-Namecheap provides ThinkPrivacy with VPS hosting and domain name support. Namecheap has provided services since July 2020. They currently have no services in our privacy recommendations.
+Namecheap provides ThinkPrivacy with VPS hosting and domain name support. Namecheap has provided services since July 2020.
 
 ***
 
@@ -38,6 +38,8 @@ This section shows businesses and organizations who have made financial contribu
 
 ***
 
-We are currently receiving no financial support.
+<a href="https://simplelogin.io/" target="_blank"><img src="{{ site.baseurl }}assets/images/simple_login.png" width="400px"></a>
+
+SimpleLogin made a one-time financial donation to ThinkPrivacy in April 2021.
 
 ***
