@@ -1,6 +1,6 @@
-[![ThinkPrivacy](https://www.thinkprivacy.ch/assets/images/2019_logo.png)](https://www.thinkprivacy.ch/)
+# ThinkPrivacy
 
-[![](https://img.shields.io/badge/Made%20With-Jekyll-green.svg)](https://jekyllrb.com/) [![pipeline status](https://gitlab.com/thinkprivacy/thinkprivacy.io/badges/master/pipeline.svg)](https://gitlab.com/thinkprivacy/thinkprivacy.io/-/commits/master)
+[![](https://img.shields.io/badge/Made%20With-Jekyll-green.svg)](https://jekyllrb.com/)
 
 
 ## Building
@@ -39,4 +39,4 @@ This will install node v11.15.0 and gulp v3.9.1, newer versions are not compatib
 
 # Information and License
 
-Copyright 2018-2020 ThinkPrivacy & Dan Arel.
+Copyright 2018-2021 ThinkPrivacy & Dan Arel.
