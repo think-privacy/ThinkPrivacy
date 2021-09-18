@@ -26,13 +26,13 @@ Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/
 If you have issues getting Gulp to run properly, run the following commands inside the directory:
 
 ```bash
-$ npm install -g n
+$ sudo npm install -g n
 
 $ sudo n 11.15.0
 
-$ npm install gulp@^3.9.1
-$ npm install 
-$ npm rebuild node-sass
+$ sudo npm install gulp@^3.9.1
+$ sudo npm install 
+$ sudo npm rebuild node-sass
 ```
 
 This will install node v11.15.0 and gulp v3.9.1, newer versions are not compatibile with this compiler script. 
