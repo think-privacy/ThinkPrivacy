@@ -75,7 +75,7 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: danarel
+username: think-privacy
 repo: thinkprivacy
 branch: master
 relative_source: ../thinkprivacy/
