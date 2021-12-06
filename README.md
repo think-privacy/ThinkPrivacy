@@ -1,7 +1,14 @@
-[![ThinkPrivacy](https://www.thinkprivacy.ch/assets/images/2019_logo.png)](https://www.thinkprivacy.ch/)
+# ThinkPrivacy
 
-[![](https://img.shields.io/badge/Made%20With-Jekyll-green.svg)](https://jekyllrb.com/) [![pipeline status](https://gitlab.com/thinkprivacy/thinkprivacy.io/badges/master/pipeline.svg)](https://gitlab.com/thinkprivacy/thinkprivacy.io/-/commits/master)
+[![](https://img.shields.io/badge/Made%20With-Jekyll-green.svg)](https://jekyllrb.com/)
 
+# Contributing
+
+It's important for a website like ThinkPrivacy.ch to be up-to-date and easy to use for new users. Keep an eye on software updates of the applications listed here. Follow recent news about providers that are recommended. We try our best to keep up but we're not perfect and the internet is changing fast. So if you find an error, or you think a provider should not be listed here, or a qualified service provider is missing or a browser plugin is not the best choice anymore or anything else.
+
+**Please see our [contributing guidelines](.github/CONTRIBUTING.md) to learn more.**
+
+**Chat with us.** Find us on [Twitter](https://www.twitter.com/ThinkPrivacy_) or visit the [contact page](https://thinkprivacy.ch/contact/) and contact the administrator, Dan Arel. This is becoming a community project, and we're aiming to deliver the best information available for better privacy for all.
 
 ## Building
 
@@ -26,17 +33,17 @@ Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/
 If you have issues getting Gulp to run properly, run the following commands inside the directory:
 
 ```bash
-$ npm install -g n
+$ sudo npm install -g n
 
 $ sudo n 11.15.0
 
-$ npm install gulp@^3.9.1
-$ npm install 
-$ npm rebuild node-sass
+$ sudo npm install gulp@^3.9.1
+$ sudo npm install 
+$ sudo npm rebuild node-sass
 ```
 
 This will install node v11.15.0 and gulp v3.9.1, newer versions are not compatibile with this compiler script. 
 
 # Information and License
 
-Copyright 2018-2020 ThinkPrivacy & Dan Arel.
+Copyright 2018-2021 Dan Arel and contributors, and licensed under Creative Commons Attribution-Share Alike 4.0.
