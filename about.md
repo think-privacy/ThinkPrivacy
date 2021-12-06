@@ -7,7 +7,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-ThinkPrivacy is maintained by author, journalist, and privacy advocate [Dan Arel](https://www.danarel.com){:target="_blank"} and contributors from [Github](https://github.com/think-privacy/thinkprivacy){:target="_blank"}. This site serves no ads, no cookies, no affiliate links, and no tracking software. We have no idea who you are, and we want to keep it that way.
+ThinkPrivacy is maintained by author, journalist, and privacy advocate [Dan Arel](https://www.danarel.com){:target="_blank"} and contributors from [Codeberg](https://codeberg.org/ThinkPrivacy/ThinkPrivacy){:target="_blank"}. This site serves no ads, no cookies, no affiliate links, and no tracking software. We have no idea who you are, and we want to keep it that way.
 
 This site is designed to help everyday internet users, activist, journalists, and anyone else find apps that help make privacy easier. There are lots of amazing apps out there that advanced users swear by but are not user friendly, and for the most part those are skipped here. We test and recommend the ones that we know we can say "download this, it will work" and not something that's going to take a user 3 weeks to learn.
 

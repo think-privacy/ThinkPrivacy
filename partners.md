@@ -20,7 +20,7 @@ For us, ethical funding also means we want to make sure that our community knows
 
 Because of this, we will continue to make all financial or other contributions to this site public and will be updated monthly. Partnerships and donations will be listed for one year following the end of partnerships or donations.
 
-## Our Partners (*updated April 2021*)
+## Our Partners (*updated December 2021*)
 
 This section shows what influences the company is exposed to. This includes partnerships, in-kind donations, trainings, and other non-financial contributions to the growth of ThinkPrivacy.
 
@@ -32,7 +32,7 @@ Namecheap provides ThinkPrivacy with VPS hosting and domain name support. Namech
 
 ***
 
-## Our Funding (*updated September 2021*)
+## Our Funding (*updated December 2021*)
 
 This section shows businesses and organizations who have made financial contributions to ThinkPrivacy. We will note when these donations are reoccuring or one-time.
 

@@ -16,7 +16,7 @@ logo: assets/images/header_logo.png
 logo_dark: assets/images/header_cover_blue.png
 favicon: assets/images/favicon.ico
 production_url: https://thinkprivacy.ch/
-source_url: https://github.com/think-privacy/thinkprivacy/
+source_url: https://codeberg.org/ThinkPrivacy/ThinkPrivacy
 CNAME: thinkprivacy.ch
 
 # Social info
@@ -75,8 +75,8 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: think-privacy
-repo: thinkprivacy
+username: ThinkPrivacy
+repo: ThinkPrivacy
 branch: master
 relative_source: ../thinkprivacy/
 destination: _site/

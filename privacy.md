@@ -35,7 +35,7 @@ This website (thinkprivacy.ch) does not use any invasive tracking software. We u
 
 This site uses no affiliate links. We do not make money from the products or services you choose to use.
 
-## Outside links 
+## Outside links
 
 When you leave ThinkPrivacy via our links, we cannot vouch for the tracking or cookies used by sites we recommend, however if you use the browser plugins we recommend, you help reduce what they can track. In most cases, they care deeply about privacy as well and don't use invasive tracking software.
 
