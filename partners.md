@@ -32,7 +32,7 @@ Namecheap provides ThinkPrivacy with VPS hosting and domain name support. Namech
 
 ***
 
-## Our Funding (*updated December 2021*)
+## Our Funding (*updated January 2022*)
 
 This section shows businesses and organizations who have made financial contributions to ThinkPrivacy. We will note when these donations are reoccuring or one-time.
 
