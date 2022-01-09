@@ -1,3 +1,5 @@
+<h2>Desktop Browsers</h2>
+
 {% include card.html
 
 title="Firefox"
@@ -6,27 +8,9 @@ description='One of the most popular browsers on the market is always thinking p
 nocountry=""
 website="https://getfirefox.com/"
 windows="https://www.mozilla.org/firefox/windows/"
-ios="https://www.mozilla.org/en-US/firefox/mobile/"
-android="https://www.mozilla.org/en-US/firefox/mobile/"
 mac="https://www.mozilla.org/firefox/mac/"
 linux="https://www.mozilla.org/firefox/linux/"
 source="https://hg.mozilla.org/mozilla-central/"
-github="https://github.com/mozilla-mobile"
-
-%}
-
-{% include card.html
-
-title="Tor"
-image="/assets/img/tools/Tor-Project.png"
-description="Tor Browser is your choice if you need an extra layer of anonymity. It's a modified version of Firefox ESR, which comes with pre-installed privacy add-ons, encryption, and an advanced proxy."
-nocountry=""
-website="https://torproject.org/"
-windows="https://www.torproject.org/download/"
-mac="https://www.torproject.org/download/"
-linux="https://www.torproject.org/download/"
-android="https://www.torproject.org/download/#android"
-git="https://trac.torproject.org/projects/tor"
 
 %}
 
@@ -45,15 +29,35 @@ source="https://vivaldi.com/source/"
 
 %}
 
+<h2>Advanced Desktop Recommendation</h2>
+
 {% include card.html
 
-title="Bromite"
-image="/assets/img/tools/bromite.png"
-description="Bromite is a Chromium-based browser with security enhancement patches from GrapheneOS and built-in adblocking and DNS over HTTPS support."
+title="Tor Browser"
+image="/assets/img/tools/Tor-Project.png"
+description="Tor Browser is your choice if you need an extra layer of anonymity. It's a modified version of Firefox ESR, which comes with pre-installed privacy add-ons, encryption, and an advanced proxy."
 nocountry=""
-website="https://www.bromite.org/"
-android="https://www.bromite.org/"
-github="https://github.com/bromite/bromite"
+website="https://torproject.org/"
+windows="https://www.torproject.org/download/"
+mac="https://www.torproject.org/download/"
+linux="https://www.torproject.org/download/"
+android="https://www.torproject.org/download/#android"
+git="https://trac.torproject.org/projects/tor"
+
+%}
+
+<h2>Mobile Browsers</h2>
+
+{% include card.html
+
+title="Firefox iOS"
+image="/assets/img/tools/Firefox.png"
+description='One of the most popular browsers on the market is always thinking privacy first and offers an amazingly fast, reliable browser. Firefox iOS includes Tracking Protection which lets you select the blocklists Cookies, Tracking Content, Cryptominers, Fingerprinters and Redirect trackers.'
+nocountry=""
+website="https://getfirefox.com/"
+ios="https://www.mozilla.org/en-US/firefox/mobile/"
+android="https://www.mozilla.org/en-US/firefox/mobile/"
+github="https://github.com/mozilla-mobile"
 
 %}
 
@@ -66,6 +70,18 @@ nocountry=""
 android="https://play.google.com/store/apps/details?id=org.mozilla.focus"
 ios="https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337"
 github="https://github.com/mozilla-mobile"
+
+%}
+
+{% include card.html
+
+title="Bromite"
+image="/assets/img/tools/bromite.png"
+description="Bromite is a Chromium-based browser with security enhancement patches from GrapheneOS and built-in adblocking and DNS over HTTPS support."
+nocountry=""
+website="https://www.bromite.org/"
+android="https://www.bromite.org/"
+github="https://github.com/bromite/bromite"
 
 %}
 
