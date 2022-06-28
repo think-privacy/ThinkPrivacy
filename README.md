@@ -46,4 +46,4 @@ This will install node v11.15.0 and gulp v3.9.1, newer versions are not compatib
 
 # Information and License
 
-Copyright 2018-2021 Dan Arel and ThinkPrivacy, and licensed under Creative Commons Attribution-Share Alike 4.0.
+Copyright 2018-2022 Dan Arel and ThinkPrivacy, and licensed under Creative Commons Attribution-Share Alike 4.0.
