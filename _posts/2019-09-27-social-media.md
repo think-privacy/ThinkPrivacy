@@ -11,7 +11,7 @@ subclass: 'post tag-service-recommendations'
 author: thinkprivacy
 ---
 
-Social media doesn't have to violate your privacy and the services below put you in control of your data and what is public or private. 
+Social media companies, like other Big Tech organizations want to use your posts to generate income through advertisers. You don't have to turn over your personal information to stay in touch with friends and family.
 
 <p><strong>Use Instead Of:</strong> Facebook, Twitter, Instagram, Snapchat.</p>
 
